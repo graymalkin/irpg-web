@@ -1,0 +1,60 @@
+.user {
+    width: 160px; height:160px;
+    border: solid 4px #222;
+    margin:5px;
+    position: relative;
+    background: url(./knight.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    float: left;
+}
+.user:hover {
+    background: url(./knight.gif);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.user .level {
+    position: absolute;
+    top:0; right:0;
+    width: 40px; height: 40px;
+    background: #222;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 36px;
+}
+.user .alignment {
+    position: absolute;
+    top:0; left:0;
+    width: 20px; height: 20px;
+    background: #222;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1rem;
+    text-align: center;
+    line-height: 18px;
+    font-style: italic;
+}
+.user div {
+    position: absolute;
+    width:100%;
+    bottom: 0px;
+    background: rgba(29,29,29,.8);
+    color: #ccc;
+    padding:5px;
+    box-sizing: border-box;
+}
+.user div h3, .user div h4 {
+    margin:2px;
+}
+.user div h3 { font-size:1.1rem; color:#fff;}
+.user div h4 { font-size:.8rem; }
+canvas{
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

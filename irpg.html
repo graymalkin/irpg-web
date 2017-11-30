@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>IdleRPG</title>
+		<link rel="stylesheet" href="./assets/irpg.css" />
+		<link rel="stylesheet" href="./assets/style.css" />
+	</head>
+	<body>
+		<div class="content">
+			<h1 class="title">IdleRPG Status</h1>
+			<div id="users">
+				<h2>Users</h2>
+				<i>Updated every 5 minutes.</i>
+				<p>Thanks to Bag for the snazy user view
+			</div>
+			
+			<script type="view" id="user-view">
+			<div class="user">
+			<span class="alignment">{alignment}</span>
+			<span class="level">{level}</span>
+			<div>
+			<h3>{username} ({cp})</h3>
+			<h4>{class}</h4>
+			</div>
+			</div>
+			</script>
+		</div>
+		<br >
+		
+		<canvas width="1502" height="1502" id="canvas"></canvas>
+
+		<script type="text/javascript" language="javascript">
+		// Box width
+		var bw = 1500;
+		var width=50;
+		// Box height
+		var bh = 1500;
+		var height = 50;
+		// Padding
+		var p = 0;
+
+		var items = {
+			"a": "Mattt's Omniscience Grand Crown",
+			"b": "Juliet's Glorious Ring of Sparkliness",
+			"c": "Res0's Protectorate Plate Mail",
+			"d": "Dwyn's Storm Magic Amulet",
+			"e": "Drdink's Cane of Blind Rage",
+			"f": "Mrquick's Magical Boots of Swiftness",
+			"g": "Jeff's Cluehammer of Doom"
+		};
+		
+		var canvas = document.getElementById("canvas");
+		var context = canvas.getContext("2d");
+
+		var view = document.getElementById('user-view').innerHTML;
+
+		function renderUser(data)
+		{
+			var newView = ''+view;
+			for (let attr in data){
+				newView = newView.replace('{'+attr+'}', data[attr]);
+			}
+			return newView;
+		}
+
+		function render(data)
+		{
+			html = document.getElementById('users').innerHTML;
+			data.sort(function (a, b) {
+				let aL = parseInt(a['level']);
+				let bL = parseInt(b['level']);
+				
+				if (aL == bL) {
+					return getUserCp(b) - getUserCp(a);
+				}
+
+				return bL - aL;
+			});
+
+			for(let user of data){
+				user.cp = getUserCp(user);
+				html += renderUser(user);
+			}
+			document.getElementById('users').innerHTML = html;
+		}
+
+		function getUserCp(user){
+
+			const stats = ['helm','tunic','amulet','gloves','ring','leggings','charm','boots','shield','weapon'];
+			let cp = 0;
+
+			for(let stat of stats){
+				cp += parseInt(user[stat]);
+			}
+
+			// alignment
+			if(user.alignment == 'e'){
+				cp = cp * 0.9; // -10%
+			}
+			if(user.alignment == 'g'){
+				cp = cp * 1.1; // +10%
+			}
+			return Math.round(cp,0);
+		}
+
+		var offsetX,offsetY;
+
+		function reOffset(){
+			var BB=canvas.getBoundingClientRect();
+			offsetX=BB.left;
+			offsetY=BB.top;
+		}
+		
+		
+		function drawBoard(){
+			for(var x = 0; x <= bw; x += (bw/width)) {
+				context.moveTo(0.5 + x + p, p);
+				context.lineTo(0.5 + x + p, bh + p);
+			}
+			
+			for (var y = 0; y <= bh; y += (bh/height)) {
+				context.moveTo(p, 0.5 + y + p);
+				context.lineTo(bw + p, 0.5 + y + p);
+			}
+			
+			context.strokeStyle = "black";
+			context.stroke();
+		}
+
+		shapes = []
+
+		function drawPlayer(s) {
+			context.beginPath();
+			context.arc(s.x, s.y, 8, 0, 2 * Math.PI, false);
+			context.fillStyle = 'black';
+			context.fill();
+		}
+
+		
+		function getPlayerData(path) {
+			var xhr = new XMLHttpRequest();
+			xhr.onreadystatechange = function()
+			{
+				if (xhr.readyState === XMLHttpRequest.DONE) {
+					if (xhr.status === 200) {
+						data = JSON.parse(xhr.responseText);
+						render(data);
+						
+						for(var i = 0; i < data.length; i++) {
+							var s = {
+								name: data[i]['username'],
+								x: data[i]['x_pos'] * 3,
+								y: data[i]['y_pos'] * 3,
+								color: "black",
+								level: data[i]['level'],
+								quest: data[i]['on_quest']
+							}
+							shapes.push(s);
+						}
+					}
+				}
+			};
+			xhr.open("GET", path, true);
+			xhr.send();
+		}
+
+		function handleMouseMove(e){
+			mouseX=parseInt(e.clientX-offsetX);
+			mouseY=parseInt(e.clientY-offsetY);			
+			// clear the canvas
+			context.clearRect(0,0,canvas.width,canvas.height);
+
+			context.fillStyle='black';
+			context.font="14px Times";
+			context.fillText("(" + parseInt(mouseX/3) + ", " + parseInt(mouseY/3) + ")",4,15);
+
+			for(var i=0;i<shapes.length;i++){
+				var s=shapes[i];				
+				drawPlayer(s);
+				
+				// is the mouse inside the defined shape
+				//if(context.isPointInPath(mouseX,mouseY,"evenodd")){
+					context.fillStyle='black';
+					context.font="18px Times";
+					context.fillText(s.name,s.x+10,s.y+10);
+				//}
+			}
+			drawBoard();
+		}
+
+		drawBoard();
+		document.addEventListener('mousemove', handleMouseMove, false);
+		document.addEventListener('scroll', reOffset, false);
+		document.addEventListener('resize', reOffset, false);
+		reOffset();
+		getPlayerData("https://graymalk.in/irpg.json");
+		</script>
+		
+	</body>
+</html>

@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: rgba(53,53,53,1); /* #353535 */
+    font-family: Georgia, serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'DeJa Vu Sans', sans-serif;
+}
+
+h2, h3, h4 {
+    margin: 0;
+}
+
+h3, h4 {
+    color: #666;
+}
+
+p, img {
+    margin-top: 0;
+    max-width: 100%;
+}
+
+pre {
+    padding: 8px;
+    display: block;
+    border-left: solid #0151b1 2px;
+    margin: 0px 10px 10px 10px;
+}
+
+quot, blockquote {
+    font-style: italic;
+}
+
+@media (max-width: 650px) {
+    .nl {
+	display: inline;
+    }
+    .content {
+	margin-left: 1em;
+	margin-right: 1em;
+    }
+    .title {
+	font-size: 250%;
+	margin-top: 0.7em;
+	padding-bottom: 0.4em;
+    }
+    .byline {
+	font-size: 180%;
+	margin-top: -1.6em;
+	margin-bottom: 1.5em;
+    }
+    p {
+	line-height: 1.75em;
+    }
+    
+    .date {
+	margin-top: -2em;
+	margin-bottom: 3em;
+	margin-left: 0em;
+	font-size: 120%;
+	font-family: 'DeJa Vu Mono', monospace;
+    }
+    .date p {
+	padding: 0;
+    }
+}
+
+@media (min-width: 650px) {
+    .nl {
+	display: none;
+    }
+    .content {
+ 	/*margin-left: 3em;
+	margin-right: 3em;*/
+	margin: 0 auto;
+	max-width: 45em; 
+    }
+    .title {
+	margin-top: 1em;
+	padding-bottom: 0.2em;
+	font-size: 450%;
+    }
+    .byline {
+	font-size: 230%;
+	margin-top: -1.7em;
+	margin-bottom: 2em;
+    }
+    p {
+	line-height: 1.5;
+    }
+    
+    .date {
+	margin-top: -3em;
+	margin-bottom: 3em;
+	font-size: 150%;
+	font-family: 'DeJa Vu Mono', monospace;
+    }
+}
+
+.date p {
+    padding: 0;
+    margin: 0;
+}
+
+.title, .byline {
+    font-weight: bold;
+    font-family: 'DeJa Vu Mono', monospace;
+}
+
+@keyframes blink {
+    0%   { color: rgba(53,53,53,1); }
+    25%  { color: rgba(53,53,53,1); }
+    50%  { color: rgba(53,53,53,0); }
+    75%  { color: rgba(53,53,53,0); }
+}
+
+.title::after {
+    content:"_";
+    animation: blink 1.5s cubic-bezier(1, 0, 0, 1) infinite;
+}
+
+.indent {
+    margin-left: 3em;
+}
+.indent-small {
+    margin-left: 1em;
+}
+
+.left-right {
+    margin-bottom: 1em;
+}
+.left-right * {
+    width: 50%;
+    float: left;
+    display: inline-block;
+}
+.left-right div * {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+div .sourceCode, pre {
+    overflow: auto;
+}
+
+code {
+    color: #770000;
+}
+
+.swatch {
+    width: 1em;
+    height: 1em;
+    background-color: attr(color);
+    display: inline-block;
+    border-radius: 3px;
+    border: 1px solid #bbb;
+}
+
+
