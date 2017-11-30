@@ -1,0 +1,8 @@
+T explore and chart the dark lands of T'rnalvph
+Y 2
+S 1
+P 400 475 480 380
+P1 bunu 63 480
+P2 Jake 377 111
+P3 shrew 324 318
+P4 GLaDOS 459 439
