@@ -1,3 +1,961 @@
+[11/02/17 07:06:31] shrew [328/549] has challenged ayleid [68/781] in combat and won! 0 days, 15:22:12 is removed from shrew's clock.
+[11/02/17 07:06:31] shrew has dealt ayleid a Critical Strike! 0 days, 19:21:07 is added to ayleid's clock.
+[11/02/17 07:17:54] Andee was bitten by a møøse. This terrible calamity has slowed them 0 days, 03:29:16 from level 53.
+[11/02/17 08:06:40] bag [233/445] has challenged catboy [358/528] in combat and lost! 1 day, 13:27:02 is added to bag's clock.
+[11/02/17 09:06:48] ayleid [134/781] has challenged Mex [138/523] in combat and lost! 0 days, 06:51:31 is added to ayleid's clock.
+[11/02/17 09:54:47] bag walked face-first into a tree. This terrible calamity has slowed them 1 day, 15:56:46 from level 55.
+[11/02/17 10:06:57] Andee [279/469] has challenged Mex [108/523] in combat and won! 0 days, 07:03:21 is removed from Andee's clock.
+[11/02/17 11:07:05] bunu [216/510] has challenged will [456/486] in combat and lost! 1 day, 01:26:44 is added to bunu's clock.
+[11/02/17 11:15:30] Andee was rejuvenated by drinking from a magic stream! This wondrous cowsend has accelerated them 0 days, 05:33:58 towards level 53.
+[11/02/17 12:07:16] Andee [167/469] has challenged shrew [547/549] in combat and lost! 0 days, 03:05:31 is added to Andee's clock.
+[11/02/17 13:07:26] graymalkin [469/563] has challenged ayleid [427/781] in combat and won! 0 days, 16:42:39 is removed from graymalkin's clock.
+[11/02/17 14:07:36] bag [89/445] has challenged Mex [458/523] in combat and lost! 1 day, 18:26:50 is added to bag's clock.
+[11/02/17 15:07:44] Jake [339/423] has challenged bunu [450/510] in combat and lost! 0 days, 14:27:10 is added to Jake's clock.
+[11/02/17 16:07:52] bunu [196/510] has challenged idlerpg [162/711] in combat and won! 3 days, 04:47:19 is removed from bunu's clock.
+[11/02/17 16:12:08] will [265/504] has challenged Andee [254/469] in combat and won! 2 days, 08:30:07 is removed from will's clock.
+[11/02/17 17:08:01] bag [300/445] has challenged will [127/504] in combat and won! 3 days, 11:57:29 is removed from bag's clock.
+[11/02/17 17:12:26] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried bunu 4 days, 05:00:21 toward level 53.
+[11/02/17 18:08:10] ayleid [780/781] has challenged Andee [193/469] in combat and won! 0 days, 12:27:22 is removed from ayleid's clock.
+[11/02/17 19:08:18] bag [82/445] has challenged bunu [126/510] in combat and lost! 1 day, 15:11:26 is added to bag's clock.
+[11/02/17 19:56:07] bunu, shrew, graymalkin, and will have completed their journey! 25% of their burden is eliminated.
+[11/02/17 19:56:10] will [178/504] has come upon shrew [223/549] and been defeated in combat! 0 days, 19:39:20 is added to will's clock.
+[11/02/17 20:08:27] Andee [461/469] has challenged catboy [505/528] in combat and lost! 0 days, 02:44:49 is added to Andee's clock.
+[11/02/17 21:08:35] Jake [39/423] has challenged will [13/504] in combat and won! 1 day, 03:56:16 is removed from Jake's clock.
+[11/02/17 22:08:43] shrew [537/549] has challenged Andee [146/469] in combat and won! 0 days, 08:29:28 is removed from shrew's clock.
+[11/02/17 23:08:52] bag [29/445] has challenged Jake [196/423] in combat and lost! 1 day, 17:39:12 is added to bag's clock.
+[11/03/17 00:09:00] bag [42/445] has challenged Mex [502/523] in combat and lost! 1 day, 20:29:56 is added to bag's clock.
+[11/03/17 01:09:07] shrew [160/549] has challenged catboy [368/528] in combat and lost! 0 days, 03:46:02 is added to shrew's clock.
+[11/03/17 01:42:35] Mex [242/523] has come upon GLaDOS [185/558] and taken them in combat! 0 days, 10:46:26 is removed from Mex's clock.
+[11/03/17 02:09:17] ayleid [760/781] has challenged bag [5/445] in combat and won! 0 days, 09:47:39 is removed from ayleid's clock.
+[11/03/17 03:09:26] will [109/504] has challenged GLaDOS [197/558] in combat and lost! 0 days, 20:31:34 is added to will's clock.
+[11/03/17 04:09:36] Andee [407/469] has challenged shrew [400/549] in combat and won! 0 days, 04:24:59 is removed from Andee's clock.
+[11/03/17 04:23:13] Jake [175/423] has come upon will [399/504] and been defeated in combat! 0 days, 12:34:51 is added to Jake's clock.
+[11/03/17 05:09:44] bunu [13/510] has challenged ayleid [380/781] in combat and lost! 0 days, 09:58:37 is added to bunu's clock.
+[11/03/17 05:33:00] bunu [417/510] has come upon Mex [496/523] and been defeated in combat! 0 days, 10:38:54 is added to bunu's clock.
+[11/03/17 06:09:54] Jake [322/423] has challenged bunu [476/510] in combat and lost! 0 days, 13:20:13 is added to Jake's clock.
+[11/03/17 07:10:03] ayleid [746/781] has challenged graymalkin [515/563] in combat and won! 0 days, 07:52:10 is removed from ayleid's clock.
+[11/03/17 08:10:15] graymalkin [501/563] has challenged idlerpg [425/711] in combat and won! 0 days, 13:18:22 is removed from graymalkin's clock.
+[11/03/17 09:10:23] will [100/504] has challenged graymalkin [48/563] in combat and won! 1 day, 16:00:23 is removed from will's clock.
+[11/03/17 10:10:34] ayleid [75/781] has challenged will [269/504] in combat and lost! 0 days, 03:28:33 is added to ayleid's clock.
+[11/03/17 11:10:43] will [367/504] has challenged Jake [375/423] in combat and lost! 0 days, 18:36:04 is added to will's clock.
+[11/03/17 12:10:51] will [464/504] has challenged bag [12/445] in combat and won! 1 day, 12:49:58 is removed from will's clock.
+[11/03/17 13:11:00] graymalkin [244/563] has challenged Mex [228/523] in combat and won! 0 days, 05:47:08 is removed from graymalkin's clock.
+[11/03/17 14:11:08] bunu [165/510] has challenged Mex [334/523] in combat and lost! 0 days, 10:47:21 is added to bunu's clock.
+[11/03/17 14:29:41] Jake bribed the local IRPG administrator! This wondrous cowsend has accelerated them 0 days, 11:43:55 towards level 50.
+[11/03/17 15:11:17] Jake [47/423] has challenged idlerpg [491/711] in combat and lost! 0 days, 18:18:40 is added to Jake's clock.
+[11/03/17 16:06:46] shrew, Andee, graymalkin, and ayleid have completed their journey! 25% of their burden is eliminated.
+[11/03/17 16:11:25] GLaDOS [199/558] has challenged Andee [367/469] in combat and lost! 0 days, 00:21:35 is added to GLaDOS's clock.
+[11/03/17 16:31:14] Andee [363/469] has come upon shrew [170/549] and taken them in combat! 0 days, 01:39:48 is removed from Andee's clock.
+[11/03/17 17:11:34] bunu [63/510] has challenged graymalkin [33/563] in combat and won! 0 days, 21:02:56 is removed from bunu's clock.
+[11/03/17 17:12:25] Mex is forsaken by their evil Cowgod. 0 days, 01:41:53 is added to their clock.
+[11/03/17 18:11:42] catboy [506/528] has challenged bunu [167/510] in combat and won! 0 days, 09:14:35 is removed from catboy's clock.
+[11/03/17 19:09:35] graymalkin slipped and dropped their charm in a dirty bog! graymalkin's charm loses 10% of its effectiveness.
+[11/03/17 19:11:51] ayleid [228/781] has challenged will [158/504] in combat and won! 0 days, 04:12:01 is removed from ayleid's clock.
+[11/03/17 20:11:58] bag [77/445] has challenged ayleid [42/781] in combat and won! 3 days, 13:49:10 is removed from bag's clock.
+[11/03/17 21:12:07] bag [212/445] has challenged Andee [282/469] in combat and lost! 1 day, 16:07:58 is added to bag's clock.
+[11/03/17 21:13:55] bag's charm ate a bolt of lightning! bag's charm gains 10% effectiveness.
+[11/03/17 21:41:28] GLaDOS [347/558] has challenged graymalkin [153/557] in combat and won! 2 days, 08:30:07 is removed from GLaDOS's clock.
+[11/03/17 22:12:15] GLaDOS [331/558] has challenged graymalkin [147/557] in combat and won! 2 days, 01:05:25 is removed from GLaDOS's clock.
+[11/03/17 23:12:28] bag [309/452] has challenged shrew [417/549] in combat and lost! 1 day, 18:48:06 is added to bag's clock.
+[11/04/17 00:12:39] bag [300/452] has challenged will [488/504] in combat and lost! 1 day, 21:43:40 is added to bag's clock.
+[11/04/17 01:12:55] bunu [341/510] has challenged GLaDOS [464/558] in combat and lost! 0 days, 09:17:56 is added to bunu's clock.
+[11/04/17 01:16:05] Jake got turned INSIDE OUT, practically. This terrible calamity has slowed them 0 days, 11:28:49 from level 50.
+[11/04/17 02:13:16] Andee [168/469] has challenged shrew [223/549] in combat and lost! 0 days, 00:06:00 is added to Andee's clock.
+[11/04/17 03:13:26] bunu [164/510] has challenged idlerpg [58/711] in combat and won! 1 day, 04:01:36 is removed from bunu's clock.
+[11/04/17 03:45:06] Andee [103/469] has challenged shrew [77/549] in combat and won! 2 days, 08:30:07 is removed from Andee's clock.
+[11/04/17 04:13:35] GLaDOS [297/558] has challenged will [324/504] in combat and lost! 0 days, 22:34:31 is added to GLaDOS's clock.
+[11/04/17 05:13:45] ayleid [490/781] has challenged bunu [229/510] in combat and won! 0 days, 02:21:01 is removed from ayleid's clock.
+[11/04/17 06:13:55] Andee [55/469] has challenged bag [267/452] in combat and lost! 1 day, 02:17:44 is added to Andee's clock.
+[11/04/17 07:14:05] Andee [214/469] has challenged Jake [119/423] in combat and won! 2 days, 00:06:47 is removed from Andee's clock.
+[11/04/17 08:04:32] ayleid found an exploit in the IRPG code! This wondrous cowsend has accelerated them 0 days, 00:38:39 towards level 55.
+[11/04/17 08:14:12] Mex [91/523] has challenged graymalkin [296/557] in combat and lost! 0 days, 03:01:45 is added to Mex's clock.
+[11/04/17 09:14:22] catboy [425/528] has challenged Mex [78/523] in combat and won! 0 days, 05:37:03 is removed from catboy's clock.
+[11/04/17 09:59:09] GLaDOS was accepted into Pi Beta Phi! This wondrous cowsend has accelerated them 1 day, 16:43:06 towards level 54.
+[11/04/17 10:14:32] Andee [161/469] has challenged Mex [240/523] in combat and lost! 1 day, 00:29:15 is added to Andee's clock.
+[11/04/17 10:48:42] catboy [73/528] has come upon Jake [258/423] and been defeated in combat! 0 days, 02:46:25 is added to catboy's clock.
+[11/04/17 11:14:40] Andee [358/469] has challenged will [237/504] in combat and won! 2 days, 00:31:48 is removed from Andee's clock.
+[11/04/17 12:14:49] Mex [200/523] has challenged GLaDOS [521/558] in combat and lost! 0 days, 02:57:38 is added to Mex's clock.
+[11/04/17 13:14:59] catboy [174/528] has challenged GLaDOS [398/558] in combat and lost! 0 days, 02:47:50 is added to catboy's clock.
+[11/04/17 14:15:07] bag [45/452] has challenged will [281/504] in combat and lost! 1 day, 23:56:45 is added to bag's clock.
+[11/04/17 14:50:29] catboy got turned INSIDE OUT, practically. This terrible calamity has slowed them 0 days, 02:28:11 from level 55.
+[11/04/17 15:15:17] bag [142/452] has challenged Andee [97/469] in combat and won! 3 days, 23:08:41 is removed from bag's clock.
+[11/04/17 16:15:25] ayleid [690/781] has challenged bag [86/452] in combat and won! 0 days, 00:31:39 is removed from ayleid's clock.
+[11/04/17 16:15:25] In the fierce battle, bag dropped their level 67 helm! ayleid picks it up, tossing their old level 50 helm to bag.
+[11/04/17 17:15:34] ayleid [306/799] has challenged bunu [388/510] in combat and lost! 0 days, 00:10:37 is added to ayleid's clock.
+[11/04/17 17:31:03] graymalkin invented the wheel! This wondrous cowsend has accelerated them 0 days, 00:15:11 towards level 56.
+[11/04/17 17:44:23] bunu, bag, ayleid, and catboy have blessed the realm by completing their quest! 25% of their burden is eliminated.
+[11/04/17 18:15:41] shrew [5/549] has challenged catboy [520/528] in combat and lost! 0 days, 00:24:26 is added to shrew's clock.
+[11/04/17 19:15:49] catboy [389/528] has challenged Mex [462/523] in combat and lost! 0 days, 02:01:55 is added to catboy's clock.
+[11/04/17 19:24:26] ayleid [355/832] has challenged will [122/504] in combat and won! 3 days, 04:01:45 is removed from ayleid's clock.
+[11/04/17 20:15:56] bunu [436/510] has challenged shrew [221/549] in combat and won! 0 days, 09:11:12 is removed from bunu's clock.
+[11/04/17 21:16:06] Mex [1/523] has challenged Jake [237/423] in combat and lost! 0 days, 02:32:10 is added to Mex's clock.
+[11/04/17 21:28:58] graymalkin [228/557] has challenged bag [242/433] in combat and lost! 1 day, 23:29:20 is added to graymalkin's clock.
+[11/04/17 22:16:14] shrew [3/549] has challenged bag [408/433] in combat and lost! 0 days, 00:09:19 is added to shrew's clock.
+[11/04/17 22:52:52] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried bag 13 days, 22:05:24 toward level 55.
+[11/04/17 23:16:21] bunu [383/510] has challenged shrew [400/549] in combat and lost! 0 days, 04:05:35 is added to bunu's clock.
+[11/05/17 00:16:31] Mex [498/523] has challenged bunu [90/510] in combat and won! 0 days, 04:38:56 is removed from Mex's clock.
+[11/05/17 00:38:36] shrew [461/549] has challenged Jake [270/423] in combat and won! 2 days, 04:09:21 is removed from shrew's clock.
+[11/05/17 01:17:11] will [412/504] has challenged idlerpg [350/758] in combat and won! 1 day, 17:52:43 is removed from will's clock.
+[11/05/17 02:17:37] shrew [198/549] has challenged bag [432/433] in combat and lost! 1 day, 02:39:28 is added to shrew's clock.
+[11/05/17 03:17:58] Jake [312/423] has challenged GLaDOS [163/558] in combat and won! 0 days, 22:58:58 is removed from Jake's clock.
+[11/05/17 03:25:05] Andee was attacked by a rabid wolverine. This terrible calamity has slowed them 0 days, 18:30:58 from level 54.
+[11/05/17 04:18:07] graymalkin [323/557] has challenged will [466/504] in combat and lost! 2 days, 02:20:09 is added to graymalkin's clock.
+[11/05/17 05:18:17] Jake [17/423] has challenged GLaDOS [484/558] in combat and lost! 0 days, 10:37:34 is added to Jake's clock.
+[11/05/17 06:18:26] ayleid [680/832] has challenged Mex [78/523] in combat and won! 2 days, 11:44:58 is removed from ayleid's clock.
+[11/05/17 07:18:35] Jake [25/423] has challenged ayleid [124/832] in combat and lost! 0 days, 11:13:46 is added to Jake's clock.
+[11/05/17 08:14:32] Mex [408/523] has come upon shrew [122/549] and taken them in combat! 0 days, 03:00:32 is removed from Mex's clock.
+[11/05/17 08:18:44] graymalkin [493/557] has challenged idlerpg [462/758] in combat and won! 6 days, 09:04:56 is removed from graymalkin's clock.
+[11/05/17 09:18:53] bunu [348/510] has challenged catboy [513/528] in combat and lost! 0 days, 03:40:36 is added to bunu's clock.
+[11/05/17 10:19:02] will [65/504] has challenged catboy [224/528] in combat and lost! 0 days, 11:05:37 is added to will's clock.
+[11/05/17 11:19:12] graymalkin [218/557] has challenged Andee [148/469] in combat and won! 3 days, 07:12:42 is removed from graymalkin's clock.
+[11/05/17 12:19:22] Andee [245/469] has challenged shrew [316/549] in combat and lost! 0 days, 22:16:30 is added to Andee's clock.
+[11/05/17 13:19:32] Mex [504/523] has challenged ayleid [356/832] in combat and won! 0 days, 01:57:25 is removed from Mex's clock.
+[11/05/17 14:12:58] bunu, GLaDOS, Andee, and will have completed their journey! 25% of their burden is eliminated.
+[11/05/17 14:13:13] Andee [356/469] has come upon GLaDOS [181/558] and taken them in combat! 1 day, 09:00:45 is removed from Andee's clock.
+[11/05/17 14:19:41] GLaDOS [223/558] has challenged will [484/504] in combat and lost! 0 days, 14:11:12 is added to GLaDOS's clock.
+[11/05/17 14:46:21] bag broke his compass. This terrible calamity has slowed them 0 days, 14:28:05 from level 55.
+[11/05/17 15:19:51] catboy [375/528] has challenged graymalkin [93/557] in combat and won! 0 days, 01:32:20 is removed from catboy's clock.
+[11/05/17 16:19:58] Andee [326/469] has challenged will [8/504] in combat and won! 1 day, 04:26:47 is removed from Andee's clock.
+[11/05/17 17:20:07] GLaDOS [226/558] has challenged Jake [383/423] in combat and lost! 0 days, 14:58:09 is added to GLaDOS's clock.
+[11/05/17 17:29:32] Jake was taught to run quickly by a secret tribe of pygmies that know how to, among other things, run quickly! This wondrous cowsend has accelerated them 0 days, 14:31:56 towards level 50.
+[11/05/17 17:36:03] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried catboy 0 days, 04:01:24 toward level 55.
+[11/05/17 18:10:17] Mex bought a faster computer! This wondrous cowsend has accelerated them 0 days, 00:59:24 towards level 52.
+[11/06/17 11:17:14] will [246/504] has challenged graymalkin [220/557] in combat and won! 0 days, 16:41:33 is removed from will's clock.
+[11/06/17 12:17:21] Mex [352/523] has challenged bunu [442/510] in combat and lost! 0 days, 00:21:48 is added to Mex's clock.
+[11/06/17 12:48:34] catboy [71/528] has challenged ayleid [481/832] in combat and lost! 1 day, 16:56:20 is added to catboy's clock.
+[11/06/17 13:17:29] will [418/504] has challenged Jake [237/423] in combat and won! 0 days, 12:03:51 is removed from will's clock.
+[11/06/17 14:17:41] Jake [191/423] has challenged catboy [399/528] in combat and lost! 0 days, 09:57:10 is added to Jake's clock.
+[11/06/17 14:59:03] shrew hit it off with a drunk sorority chick named Jenny! This wondrous cowsend has accelerated them 1 day, 06:56:50 towards level 54.
+[11/06/17 15:17:50] bunu [313/510] has challenged ayleid [224/832] in combat and won! 0 days, 03:49:38 is removed from bunu's clock.
+[11/06/17 16:17:58] GLaDOS [476/558] has challenged idlerpg [714/758] in combat and lost! 0 days, 22:11:23 is added to GLaDOS's clock.
+[11/06/17 17:18:08] ayleid [388/832] has challenged will [27/504] in combat and won! 2 days, 06:29:53 is removed from ayleid's clock.
+[11/06/17 17:50:01] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried shrew 3 days, 19:47:29 toward level 54.
+[11/06/17 17:50:37] Mex [6/523] has challenged catboy [407/528] in combat and lost! 1 day, 02:13:40 is added to Mex's clock.
+[11/06/17 18:18:16] shrew [459/549] has challenged graymalkin [420/557] in combat and won! 1 day, 12:30:34 is removed from shrew's clock.
+[11/06/17 18:40:58] GLaDOS [507/558] has come upon catboy [497/528] and taken them in combat! 1 day, 07:25:18 is removed from GLaDOS's clock.
+[11/06/17 18:55:27] A magician cast a spell of Rigidity on ayleid's tunic! ayleid's tunic gains 10% effectiveness.
+[11/06/17 19:18:25] ayleid [689/838] has challenged shrew [128/549] in combat and won! 1 day, 23:09:09 is removed from ayleid's clock.
+[11/06/17 20:18:34] shrew [256/549] has challenged GLaDOS [153/558] in combat and won! 1 day, 04:53:41 is removed from shrew's clock.
+[11/06/17 21:18:43] bunu [493/510] has challenged shrew [541/549] in combat and lost! 0 days, 01:22:19 is added to bunu's clock.
+[11/06/17 22:18:53] ayleid [381/838] has challenged Andee [435/469] in combat and lost! 0 days, 21:52:43 is added to ayleid's clock.
+[11/06/17 23:19:02] Jake [301/423] has challenged will [375/504] in combat and lost! 0 days, 10:01:04 is added to Jake's clock.
+[11/07/17 00:19:11] ayleid [450/838] has challenged will [503/504] in combat and lost! 0 days, 23:16:11 is added to ayleid's clock.
+[11/07/17 01:09:51] GLaDOS bought a faster computer! This wondrous cowsend has accelerated them 0 days, 16:18:15 towards level 54.
+[11/07/17 01:19:22] Andee [69/469] has challenged Jake [94/423] in combat and lost! 0 days, 12:08:24 is added to Andee's clock.
+[11/07/17 02:19:31] will [361/504] has challenged bag [128/433] in combat and won! 0 days, 09:48:25 is removed from will's clock.
+[11/07/17 03:19:40] GLaDOS [310/558] has challenged bag [380/433] in combat and lost! 0 days, 12:58:24 is added to GLaDOS's clock.
+[11/07/17 04:19:49] Mex [283/523] has challenged catboy [207/528] in combat and won! 2 days, 02:45:18 is removed from Mex's clock.
+[11/07/17 05:19:59] ayleid [74/838] has challenged idlerpg [74/763] in combat and won! 2 days, 22:08:12 is removed from ayleid's clock.
+[11/07/17 06:01:01] bunu was taught to run quickly by a secret tribe of pygmies that know how to, among other things, run quickly! This wondrous cowsend has accelerated them 0 days, 01:13:36 towards level 53.
+[11/07/17 06:20:06] Andee [432/469] has challenged graymalkin [191/557] in combat and won! 1 day, 01:16:41 is removed from Andee's clock.
+[11/07/17 07:20:16] Mex [45/523] has challenged bunu [254/510] in combat and lost! 0 days, 23:33:58 is added to Mex's clock.
+[11/07/17 07:43:29] shrew, Jake, ayleid, and bunu have completed their journey! 25% of their burden is eliminated.
+[11/07/17 07:56:36] bunu [286/510] has come upon Jake [161/423] and taken them in combat! 0 days, 00:48:49 is removed from bunu's clock.
+[11/07/17 07:56:36] bunu [439/510] has come upon Jake [353/423] and taken them in combat! 0 days, 00:42:57 is removed from bunu's clock.
+[11/07/17 07:57:19] bunu [505/510] has come upon Jake [191/423] and taken them in combat! 0 days, 00:37:43 is removed from bunu's clock.
+[11/07/17 08:20:25] shrew [433/549] has challenged Andee [397/469] in combat and won! 0 days, 17:39:39 is removed from shrew's clock.
+[11/07/17 09:20:33] bunu [22/510] has challenged idlerpg [424/763] in combat and lost! 0 days, 00:19:20 is added to bunu's clock.
+[11/07/17 10:17:27] shrew discovered caffeinated coffee! This wondrous cowsend has accelerated them 0 days, 13:56:56 towards level 54.
+[11/07/17 10:20:43] bag [171/433] has challenged catboy [446/528] in combat and lost! 0 days, 07:31:32 is added to bag's clock.
+[11/07/17 11:20:52] shrew [204/549] has challenged bag [108/433] in combat and won! 0 days, 13:09:38 is removed from shrew's clock.
+[11/07/17 12:20:58] catboy, graymalkin, and GLaDOS [631/1643] have team battled Jake, Andee, and shrew [931/1441] and lost! 1 day, 13:51:26 is added to their clocks.
+[11/07/17 12:21:01] Andee [71/469] has challenged bag [74/433] in combat and lost! 0 days, 10:26:54 is added to Andee's clock.
+[11/07/17 12:53:15] bunu [425/526] has challenged idlerpg [74/763] in combat and won! 3 days, 14:55:35 is removed from bunu's clock.
+[11/07/17 13:21:10] GLaDOS [55/558] has challenged bunu [134/526] in combat and lost! 0 days, 15:49:47 is added to GLaDOS's clock.
+[11/07/17 14:21:19] bunu [78/526] has challenged ayleid [213/838] in combat and lost! 1 day, 00:14:12 is added to bunu's clock.
+[11/07/17 15:21:28] Jake [294/423] has challenged idlerpg [104/763] in combat and won! 0 days, 20:10:55 is removed from Jake's clock.
+[11/07/17 16:21:36] bag [171/433] has challenged Andee [451/469] in combat and lost! 0 days, 07:37:53 is added to bag's clock.
+[11/07/17 17:21:46] Mex [311/523] has challenged Jake [209/423] in combat and won! 1 day, 18:01:28 is removed from Mex's clock.
+[11/07/17 18:21:54] will [492/504] has challenged shrew [269/549] in combat and won! 0 days, 06:26:48 is removed from will's clock.
+[11/07/17 19:22:04] will [119/504] has challenged catboy [247/528] in combat and lost! 0 days, 02:56:59 is added to will's clock.
+[11/07/17 20:22:12] shrew [43/549] has challenged GLaDOS [272/558] in combat and lost! 0 days, 05:32:01 is added to shrew's clock.
+[11/07/17 21:22:20] Mex [243/523] has challenged graymalkin [474/557] in combat and lost! 1 day, 00:20:00 is added to Mex's clock.
+[11/07/17 22:22:29] Mex [181/523] has challenged will [405/504] in combat and lost! 0 days, 22:55:30 is added to Mex's clock.
+[11/07/17 23:22:39] GLaDOS [283/558] has challenged shrew [384/549] in combat and lost! 0 days, 16:14:10 is added to GLaDOS's clock.
+[11/07/17 23:33:25] bunu ate a poisonous fruit. This terrible calamity has slowed them 0 days, 21:40:35 from level 54.
+[11/08/17 00:22:48] Jake [63/423] has challenged shrew [540/549] in combat and lost! 0 days, 05:01:09 is added to Jake's clock.
+[11/08/17 01:13:51] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried Andee 2 days, 18:04:29 toward level 54.
+[11/08/17 01:23:11] shrew [447/549] has challenged GLaDOS [47/558] in combat and won! 0 days, 10:20:38 is removed from shrew's clock.
+[11/08/17 02:23:28] Mex [249/523] has challenged Andee [402/469] in combat and lost! 1 day, 00:14:55 is added to Mex's clock.
+[11/08/17 03:23:38] bag [397/433] has challenged ayleid [540/838] in combat and lost! 0 days, 07:23:35 is added to bag's clock.
+[11/08/17 04:23:48] Mex [125/523] has challenged bag [105/433] in combat and won! 1 day, 23:55:29 is removed from Mex's clock.
+[11/08/17 05:23:59] Andee [136/469] has challenged idlerpg [419/763] in combat and lost! 0 days, 07:39:32 is added to Andee's clock.
+[11/08/17 06:08:56] bag grew an extra leg! This wondrous cowsend has accelerated them 0 days, 08:49:13 towards level 55.
+[11/08/17 06:24:08] Andee [463/469] has challenged GLaDOS [200/558] in combat and won! 0 days, 10:49:19 is removed from Andee's clock.
+[11/08/17 07:24:17] Jake [92/423] has challenged bunu [446/526] in combat and lost! 0 days, 04:52:44 is added to Jake's clock.
+[11/08/17 07:59:29] shrew, will, Andee, and bunu have blessed the realm by completing their quest! 25% of their burden is eliminated.
+[11/08/17 08:24:26] GLaDOS [549/558] has challenged shrew [40/549] in combat and won! 1 day, 07:05:23 is removed from GLaDOS's clock.
+[11/08/17 09:24:35] will [397/504] has challenged shrew [71/549] in combat and won! 0 days, 02:58:52 is removed from will's clock.
+[11/08/17 10:24:43] shrew [47/549] has challenged idlerpg [578/763] in combat and lost! 0 days, 04:27:16 is added to shrew's clock.
+[11/08/17 11:24:51] GLaDOS [497/558] has challenged ayleid [182/838] in combat and won! 1 day, 02:39:26 is removed from GLaDOS's clock.
+[11/08/17 12:02:59] bag [293/433] has come upon will [340/504] and been defeated in combat! 0 days, 06:41:14 is added to bag's clock.
+[11/08/17 12:24:59] Mex [124/523] has challenged ayleid [156/838] in combat and lost! 0 days, 21:53:22 is added to Mex's clock.
+[11/08/17 13:25:06] Mex [140/523] has challenged catboy [202/528] in combat and lost! 0 days, 23:21:06 is added to Mex's clock.
+[11/08/17 14:25:14] shrew [201/549] has challenged catboy [311/528] in combat and lost! 0 days, 03:08:57 is added to shrew's clock.
+[11/08/17 15:25:24] shrew [3/549] has challenged GLaDOS [488/558] in combat and lost! 0 days, 03:17:58 is added to shrew's clock.
+[11/08/17 16:20:47] catboy gained a sixth sense! This wondrous cowsend has accelerated them 2 days, 00:58:05 towards level 56.
+[11/08/17 16:25:33] Mex [428/523] has challenged Andee [284/469] in combat and won! 1 day, 22:00:43 is removed from Mex's clock.
+[11/08/17 17:25:42] Andee [23/469] has challenged GLaDOS [263/558] in combat and lost! 0 days, 03:03:29 is added to Andee's clock.
+[11/08/17 18:25:52] Andee [58/469] has challenged catboy [138/528] in combat and lost! 0 days, 03:12:07 is added to Andee's clock.
+[11/08/17 19:26:01] Jake [230/423] has challenged will [465/504] in combat and lost! 0 days, 04:22:42 is added to Jake's clock.
+[11/08/17 19:50:59] The local wizard imbued graymalkin's pants with a Spirit of Fortitude! graymalkin's set of leggings gains 10% effectiveness.
+[11/08/17 20:26:11] bunu [106/526] has challenged Andee [374/469] in combat and lost! 0 days, 18:47:27 is added to bunu's clock.
+[11/08/17 21:26:19] bag [410/433] has challenged graymalkin [536/563] in combat and lost! 0 days, 07:25:36 is added to bag's clock.
+[11/08/17 21:57:15] Mex is forsaken by their evil Cowgod. 0 days, 09:04:19 is added to their clock.
+[11/08/17 22:26:28] bag [39/433] has challenged GLaDOS [285/558] in combat and lost! 0 days, 06:56:52 is added to bag's clock.
+[11/08/17 23:26:37] GLaDOS [194/558] has challenged bunu [523/526] in combat and lost! 0 days, 11:38:44 is added to GLaDOS's clock.
+[11/09/17 00:26:48] will [474/504] has challenged idlerpg [115/763] in combat and won! 0 days, 00:58:58 is removed from will's clock.
+[11/09/17 01:27:01] Andee [183/469] has challenged Jake [182/423] in combat and won! 0 days, 05:01:52 is removed from Andee's clock.
+[11/09/17 02:17:06] graymalkin stopped using dial-up! This wondrous cowsend has accelerated them 2 days, 11:38:45 towards level 57.
+[11/09/17 02:27:14] graymalkin [524/563] has challenged Mex [436/523] in combat and won! 2 days, 08:50:26 is removed from graymalkin's clock.
+[11/09/17 03:27:23] shrew [310/549] has challenged idlerpg [133/763] in combat and won! 0 days, 07:40:50 is removed from shrew's clock.
+[11/09/17 04:22:40] will [126/504] has challenged graymalkin [39/563] in combat and won! 2 days, 22:35:03 is removed from will's clock.
+[11/09/17 04:27:32] Andee [357/469] has challenged idlerpg [501/763] in combat and lost! 0 days, 03:23:19 is added to Andee's clock.
+[11/09/17 05:27:42] bunu [257/526] has challenged graymalkin [173/563] in combat and won! 1 day, 14:56:56 is removed from bunu's clock.
+[11/09/17 05:51:44] graymalkin, ayleid, and catboy [1003/1929] have team battled Jake, bag, and will [1296/1360] and lost! 1 day, 08:29:44 is added to their clocks.
+[11/09/17 06:27:49] Mex [125/523] has challenged graymalkin [502/563] in combat and lost! 1 day, 00:14:12 is added to Mex's clock.
+[11/09/17 07:09:00] GLaDOS's prudence and self-regard has brought the wrath of the Cow upon the realm. All your great wickedness makes you as it were heavy with lead, and to tend downwards with great weight and pressure towards hell. Therefore have you drawn yourselves 15 steps closer to that gaping maw.
+[11/09/17 07:27:57] Jake [155/423] has challenged bag [19/433] in combat and won! 0 days, 07:28:09 is removed from Jake's clock.
+[11/09/17 08:28:05] Mex [47/523] has challenged will [204/504] in combat and lost! 0 days, 23:01:44 is added to Mex's clock.
+[11/09/17 08:31:05] will discovered a secret, underground passage! This wondrous cowsend has accelerated them 0 days, 21:43:07 towards level 55.
+[11/09/17 09:28:14] Mex [102/523] has challenged shrew [9/549] in combat and won! 1 day, 21:37:53 is removed from Mex's clock.
+[11/09/17 10:08:29] Jake hit it off with a drunk sorority chick named Jenny! This wondrous cowsend has accelerated them 0 days, 03:18:42 towards level 50.
+[11/09/17 10:28:24] shrew [484/549] has challenged idlerpg [683/763] in combat and lost! 0 days, 02:48:10 is added to shrew's clock.
+[11/09/17 11:28:32] bunu [81/526] has challenged catboy [94/528] in combat and lost! 0 days, 16:37:46 is added to bunu's clock.
+[11/09/17 12:28:40] ayleid [136/838] has challenged Andee [448/469] in combat and lost! 0 days, 13:34:41 is added to ayleid's clock.
+[11/09/17 13:28:48] shrew [325/549] has challenged graymalkin [410/563] in combat and lost! 0 days, 02:13:33 is added to shrew's clock.
+[11/09/17 13:37:58] Jake was set on fire. This terrible calamity has slowed them 0 days, 04:51:39 from level 50.
+[11/09/17 14:28:55] Jake [38/423] has challenged Mex [99/523] in combat and lost! 0 days, 03:06:58 is added to Jake's clock.
+[11/09/17 14:37:02] Jake spilled a level 7 shrinking potion on their tunic! Jake's tunic loses 10% of its effectiveness.
+[11/09/17 14:54:37] Jake ate a plate of discounted, day-old sushi. This terrible calamity has slowed them 0 days, 04:14:55 from level 50.
+[11/09/17 15:29:03] bag [265/433] has challenged ayleid [124/838] in combat and won! 0 days, 12:13:54 is removed from bag's clock.
+[11/09/17 16:29:11] ayleid [690/838] has challenged idlerpg [716/763] in combat and lost! 0 days, 20:21:16 is added to ayleid's clock.
+[11/09/17 16:35:45] catboy [79/528] has come upon Jake [52/419] and taken them in combat! 2 days, 22:31:15 is removed from catboy's clock.
+[11/09/17 17:29:19] Darkel [63/649] has challenged shrew [280/549] in combat and lost! 0 days, 02:46:48 is added to Darkel's clock.
+[11/09/17 18:29:26] bag [269/433] has challenged will [306/504] in combat and lost! 0 days, 05:31:10 is added to bag's clock.
+[11/09/17 19:29:35] ayleid [567/838] has challenged graymalkin [29/563] in combat and won! 1 day, 06:55:30 is removed from ayleid's clock.
+[11/09/17 20:29:44] Darkel [317/649] has challenged Jake [345/419] in combat and lost! 0 days, 02:45:51 is added to Darkel's clock.
+[11/09/17 21:29:52] bag [8/433] has challenged ayleid [383/838] in combat and lost! 0 days, 05:41:43 is added to bag's clock.
+[11/09/17 22:18:45] ayleid bribed the local IRPG administrator! This wondrous cowsend has accelerated them 0 days, 11:13:44 towards level 56.
+[11/09/17 22:30:01] Mex [97/523] has challenged bag [76/433] in combat and won! 1 day, 14:00:20 is removed from Mex's clock.
+[11/09/17 23:30:11] Andee [261/469] has challenged graymalkin [85/563] in combat and won! 0 days, 03:09:27 is removed from Andee's clock.
+[11/09/17 23:51:32] bag, bunu, and ayleid [1532/1797] have team battled graymalkin, Jake, and Mex [558/1505] and won! 0 days, 16:56:22 is removed from their clocks.
+[11/10/17 00:22:31] graymalkin [121/563] has come upon Darkel [98/649] and taken them in combat! 2 days, 04:16:09 is removed from graymalkin's clock.
+[11/10/17 00:30:21] Mex [20/523] has challenged bag [17/433] in combat and won! 1 day, 08:48:14 is removed from Mex's clock.
+[11/10/17 01:30:30] will [146/504] has challenged Darkel [465/649] in combat and lost! 1 day, 03:41:48 is added to will's clock.
+[11/10/17 02:30:39] Darkel [452/649] has challenged Jake [89/419] in combat and won! 0 days, 04:20:54 is removed from Darkel's clock.
+[11/10/17 02:42:10] shrew is forsaken by their evil Cowgod. 0 days, 00:10:05 is added to their clock.
+[11/10/17 03:30:48] ayleid [142/838] has challenged bunu [351/526] in combat and lost! 0 days, 10:45:52 is added to ayleid's clock.
+[11/10/17 04:30:56] catboy [191/528] has challenged Mex [390/523] in combat and lost! 1 day, 11:21:58 is added to catboy's clock.
+[11/10/17 05:31:06] Darkel [186/649] has challenged shrew [115/549] in combat and won! 0 days, 03:45:16 is removed from Darkel's clock.
+[11/10/17 06:31:15] Mex [150/523] has challenged Darkel [0/649] in combat and won! 1 day, 03:45:27 is removed from Mex's clock.
+[11/10/17 07:31:24] Mex [346/523] has challenged idlerpg [428/763] in combat and lost! 0 days, 18:28:33 is added to Mex's clock.
+[11/10/17 08:31:33] will [167/504] has challenged graymalkin [431/563] in combat and lost! 1 day, 09:18:28 is added to will's clock.
+[11/10/17 08:51:24] shrew found a one-time-use spell of quickness! This wondrous cowsend has accelerated them 0 days, 00:52:02 towards level 54.
+[11/10/17 09:18:57] Mex, bunu, and ayleid [996/1887] have team battled shrew, will, and Andee [98/1522] and won! 1 day, 07:44:54 is removed from their clocks.
+[11/10/17 09:31:40] bag [191/433] has challenged bunu [22/526] in combat and won! 0 days, 07:33:06 is removed from bag's clock.
+[11/10/17 10:31:49] Mex [10/523] has challenged bag [375/433] in combat and lost! 0 days, 11:47:37 is added to Mex's clock.
+[11/10/17 11:31:58] Jake [256/419] has challenged graymalkin [378/563] in combat and lost! 0 days, 02:28:00 is added to Jake's clock.
+[11/10/17 12:32:06] Darkel [167/649] has challenged bag [249/433] in combat and lost! 0 days, 01:16:03 is added to Darkel's clock.
+[11/10/17 13:32:15] Darkel [228/649] has challenged bag [254/433] in combat and lost! 0 days, 01:17:10 is added to Darkel's clock.
+[11/10/17 13:42:27] shrew, Mex, will, and bag have blessed the realm by completing their quest! 25% of their burden is eliminated.
+[11/10/17 14:32:24] bunu [111/526] has challenged bag [10/433] in combat and won! 0 days, 23:11:51 is removed from bunu's clock.
+[11/10/17 14:32:24] In the fierce battle, bag dropped their level 47 shield! bunu picks it up, tossing their old level 25 shield to bag.
+[11/10/17 15:32:34] Jake [275/419] has challenged Andee [255/469] in combat and won! 0 days, 03:48:27 is removed from Jake's clock.
+[11/10/17 16:32:42] bag [328/409] has challenged bunu [529/551] in combat and lost! 0 days, 02:14:06 is added to bag's clock.
+[11/10/17 17:32:50] shrew [279/549] has challenged bunu [21/551] in combat and won! 0 days, 00:00:01 is removed from shrew's clock.
+[11/10/17 17:32:59] shrew [54/549] has challenged Andee [99/469] in combat and lost! 1 day, 11:17:31 is added to shrew's clock.
+[11/10/17 18:33:00] Jake [133/419] has challenged idlerpg [234/763] in combat and lost! 0 days, 02:14:51 is added to Jake's clock.
+[11/10/17 18:53:57] Andee [412/501] has challenged ayleid [41/838] in combat and won! 2 days, 17:32:33 is removed from Andee's clock.
+[11/10/17 19:33:07] will [464/504] has challenged bag [155/409] in combat and won! 1 day, 18:34:35 is removed from will's clock.
+[11/10/17 20:33:16] ayleid [396/838] has challenged idlerpg [650/763] in combat and lost! 0 days, 11:34:31 is added to ayleid's clock.
+[11/10/17 21:18:56] catboy found an exploit in the IRPG code! This wondrous cowsend has accelerated them 1 day, 12:39:57 towards level 56.
+[11/10/17 21:33:26] Mex [229/523] has challenged shrew [275/549] in combat and lost! 0 days, 08:44:53 is added to Mex's clock.
+[11/10/17 22:30:54] graymalkin was taught to run quickly by a secret tribe of pygmies that know how to, among other things, run quickly! This wondrous cowsend has accelerated them 1 day, 02:12:47 towards level 57.
+[11/10/17 22:33:33] bunu [215/551] has challenged bag [90/409] in combat and won! 0 days, 19:08:22 is removed from bunu's clock.
+[11/10/17 23:33:43] bunu [63/551] has challenged shrew [344/549] in combat and lost! 0 days, 08:53:45 is added to bunu's clock.
+[11/11/17 00:33:52] shrew [399/549] has challenged will [220/504] in combat and won! 2 days, 21:13:07 is removed from shrew's clock.
+[11/11/17 01:34:00] Darkel [126/649] has challenged idlerpg [706/763] in combat and lost! 0 days, 00:45:47 is added to Darkel's clock.
+[11/11/17 02:34:11] graymalkin [319/563] has challenged shrew [190/549] in combat and won! 1 day, 14:39:41 is removed from graymalkin's clock.
+[11/11/17 03:00:15] Darkel and bag have not let the iniquities of evil men poison them. Together have they prayed to their Cow, and it is his milk that now rains upon them. 9% of their time is removed from their clocks.
+[11/11/17 03:34:20] ayleid [603/838] has challenged catboy [433/528] in combat and won! 0 days, 15:38:26 is removed from ayleid's clock.
+[11/11/17 04:34:28] ayleid [263/838] has challenged will [166/504] in combat and won! 0 days, 13:28:37 is removed from ayleid's clock.
+[11/11/17 05:34:40] Andee [246/501] has challenged ayleid [612/838] in combat and lost! 1 day, 05:57:24 is added to Andee's clock.
+[11/11/17 06:34:49] Andee [325/501] has challenged bunu [47/551] in combat and won! 2 days, 11:23:52 is removed from Andee's clock.
+[11/11/17 07:34:57] Jake [227/419] has challenged bag [291/409] in combat and lost! 0 days, 00:49:06 is added to Jake's clock.
+[11/11/17 08:35:06] shrew [72/549] has challenged bag [253/409] in combat and lost! 1 day, 07:51:53 is added to shrew's clock.
+[11/11/17 09:20:07] Darkel [443/660] has challenged shrew [138/549] in combat and won! 3 days, 04:01:45 is removed from Darkel's clock.
+[11/11/17 09:35:15] bunu [481/551] has challenged graymalkin [186/563] in combat and won! 0 days, 17:38:01 is removed from bunu's clock.
+[11/11/17 10:35:26] Andee [366/501] has challenged will [218/504] in combat and won! 2 days, 03:09:17 is removed from Andee's clock.
+[11/11/17 10:35:26] Andee has dealt will a Critical Strike! 2 days, 03:16:48 is added to will's clock.
+[11/11/17 11:35:35] graymalkin [243/563] has challenged Jake [215/419] in combat and won! 1 day, 05:57:55 is removed from graymalkin's clock.
+[11/11/17 12:35:45] Mex [460/523] has challenged bunu [361/551] in combat and won! 0 days, 15:25:43 is removed from Mex's clock.
+[11/11/17 12:35:45] Mex has dealt bunu a Critical Strike! 0 days, 15:47:49 is added to bunu's clock.
+[11/11/17 13:35:54] Mex [88/523] has challenged shrew [546/549] in combat and lost! 0 days, 07:09:27 is added to Mex's clock.
+[11/11/17 13:53:51] will, Andee, bunu, and graymalkin have completed their journey! 25% of their burden is eliminated.
+[11/11/17 14:36:02] ayleid [763/838] has challenged bunu [249/551] in combat and won! 0 days, 10:25:17 is removed from ayleid's clock.
+[11/11/17 15:36:09] ayleid [461/838] has challenged Andee [242/501] in combat and won! 0 days, 08:56:11 is removed from ayleid's clock.
+[11/11/17 16:36:18] shrew [244/549] has challenged GLaDOS [463/558] in combat and lost! 1 day, 09:32:02 is added to shrew's clock.
+[11/11/17 16:50:59] catboy slipped and dropped their charm in a dirty bog! catboy's charm loses 10% of its effectiveness.
+[11/11/17 17:36:27] shrew [453/549] has challenged idlerpg [131/763] in combat and won! 4 days, 06:19:03 is removed from shrew's clock.
+[11/11/17 18:36:35] GLaDOS [159/558] has challenged will [162/504] in combat and lost! 0 days, 12:26:34 is added to GLaDOS's clock.
+[11/11/17 19:36:44] Jake [230/419] has challenged will [156/504] in combat and won! 0 days, 00:03:44 is removed from Jake's clock.
+[11/11/17 20:01:44] Jake [218/566] has challenged ayleid [54/838] in combat and won! 1 day, 12:11:54 is removed from Jake's clock.
+[11/11/17 20:36:52] Mex [359/523] has challenged shrew [255/549] in combat and won! 0 days, 13:18:39 is removed from Mex's clock.
+[11/11/17 21:37:00] ayleid [739/838] has challenged Darkel [296/660] in combat and won! 0 days, 06:59:34 is removed from ayleid's clock.
+[11/11/17 21:55:51] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried will 3 days, 20:08:50 toward level 55.
+[11/11/17 22:37:10] bag [244/409] has challenged bunu [409/551] in combat and lost! 0 days, 00:36:09 is added to bag's clock.
+[11/11/17 23:37:19] will [481/504] has challenged Mex [16/523] in combat and won! 0 days, 17:44:56 is removed from will's clock.
+[11/11/17 23:52:13] catboy [298/520] has come upon Darkel [333/660] and been defeated in combat! 1 day, 08:14:25 is added to catboy's clock.
+[11/12/17 00:37:29] will [21/504] has challenged idlerpg [749/763] in combat and lost! 0 days, 11:46:40 is added to will's clock.
+[11/12/17 01:06:44] Mex was rejuvenated by drinking from a magic stream! This wondrous cowsend has accelerated them 0 days, 08:27:30 towards level 53.
+[11/12/17 01:37:39] will [473/504] has challenged bag [287/409] in combat and won! 0 days, 16:42:42 is removed from will's clock.
+[11/12/17 02:37:50] bag [299/409] has challenged Andee [34/501] in combat and won! 0 days, 00:40:33 is removed from bag's clock.
+[11/12/17 03:38:02] Mex [111/523] has challenged GLaDOS [419/558] in combat and lost! 0 days, 05:09:08 is added to Mex's clock.
+[11/12/17 04:38:12] GLaDOS [374/558] has challenged will [152/504] in combat and won! 0 days, 23:25:19 is removed from GLaDOS's clock.
+[11/12/17 05:20:27] ayleid [454/838] has come upon Jake [323/566] and taken them in combat! 0 days, 04:41:20 is removed from ayleid's clock.
+[11/12/17 05:21:03] ayleid [156/838] has come upon Jake [333/566] and been defeated in combat! 0 days, 02:24:22 is added to ayleid's clock.
+[11/12/17 05:38:22] bunu [437/551] has challenged graymalkin [251/563] in combat and won! 0 days, 10:22:33 is removed from bunu's clock.
+[11/12/17 05:45:20] Andee bribed the local IRPG administrator! This wondrous cowsend has accelerated them 0 days, 14:18:18 towards level 55.
+[11/12/17 06:38:32] ayleid [807/838] has challenged Andee [317/501] in combat and won! 0 days, 04:36:49 is removed from ayleid's clock.
+[11/12/17 06:41:17] bunu discovered caffeinated coffee! This wondrous cowsend has accelerated them 0 days, 06:53:45 towards level 54.
+[11/12/17 07:09:17] bag [327/409] has challenged graymalkin [393/563] in combat and lost! 1 day, 22:47:14 is added to bag's clock.
+[11/12/17 07:38:42] ayleid [111/838] has challenged idlerpg [80/763] in combat and won! 0 days, 05:58:30 is removed from ayleid's clock.
+[11/12/17 08:19:30] Andee's charm ate a bolt of lightning! Andee's charm gains 10% effectiveness.
+[11/12/17 08:38:51] Darkel [439/660] has challenged idlerpg [110/763] in combat and won! 4 days, 01:06:00 is removed from Darkel's clock.
+[11/12/17 09:39:00] catboy [442/520] has challenged ayleid [787/838] in combat and lost! 1 day, 09:48:46 is added to catboy's clock.
+[11/12/17 09:57:57] shrew, Mex, will, and ayleid have blessed the realm by completing their quest! 25% of their burden is eliminated.
+[11/12/17 10:39:07] graymalkin [537/563] has challenged shrew [360/549] in combat and won! 0 days, 18:30:08 is removed from graymalkin's clock.
+[11/12/17 11:39:16] will [115/504] has challenged Darkel [381/660] in combat and lost! 0 days, 05:18:56 is added to will's clock.
+[11/12/17 12:23:37] bag found a pair of Nikes! This wondrous cowsend has accelerated them 2 days, 14:38:20 towards level 56.
+[11/12/17 12:39:24] graymalkin [287/563] has challenged will [60/504] in combat and won! 0 days, 15:50:11 is removed from graymalkin's clock.
+[11/12/17 12:39:24] graymalkin has dealt will a Critical Strike! 0 days, 08:01:30 is added to will's clock.
+[11/12/17 13:39:33] Andee [57/503] has challenged shrew [88/549] in combat and lost! 0 days, 15:08:05 is added to Andee's clock.
+[11/12/17 14:39:40] Andee [179/503] has challenged graymalkin [520/563] in combat and lost! 0 days, 18:25:39 is added to Andee's clock.
+[11/12/17 15:39:49] shrew [36/549] has challenged catboy [355/520] in combat and lost! 0 days, 20:13:44 is added to shrew's clock.
+[11/12/17 15:51:14] Mex reinforced their shield with a dragon's scales! Mex's shield gains 10% effectiveness.
+[11/12/17 16:39:56] bag [290/409] has challenged GLaDOS [207/558] in combat and won! 3 days, 00:43:56 is removed from bag's clock.
+[11/12/17 17:40:04] Jake [399/566] has challenged Andee [314/503] in combat and won! 1 day, 04:40:47 is removed from Jake's clock.
+[11/12/17 18:40:14] graymalkin [167/563] has challenged Andee [223/503] in combat and lost! 0 days, 06:59:52 is added to graymalkin's clock.
+[11/12/17 19:40:23] Darkel [139/660] has challenged ayleid [447/838] in combat and lost! 1 day, 02:24:58 is added to Darkel's clock.
+[11/12/17 20:40:31] GLaDOS [544/558] has challenged Jake [299/566] in combat and won! 0 days, 16:53:06 is removed from GLaDOS's clock.
+[11/12/17 21:40:40] GLaDOS [299/558] has challenged bunu [296/551] in combat and won! 0 days, 15:58:00 is removed from GLaDOS's clock.
+[11/12/17 21:40:40] GLaDOS has dealt bunu a Critical Strike! 0 days, 07:20:41 is added to bunu's clock.
+[11/12/17 22:40:49] bunu [149/551] has challenged shrew [148/549] in combat and won! 0 days, 06:07:44 is removed from bunu's clock.
+[11/12/17 23:40:59] bunu [307/551] has challenged shrew [491/549] in combat and lost! 0 days, 02:48:03 is added to bunu's clock.
+[11/13/17 00:41:09] bunu [383/551] has challenged ayleid [256/838] in combat and won! 0 days, 05:26:08 is removed from bunu's clock.
+[11/13/17 01:41:18] Jake [216/566] has challenged ayleid [299/838] in combat and lost! 0 days, 12:52:26 is added to Jake's clock.
+[11/13/17 02:08:58] ayleid [463/874] has challenged Darkel [490/660] in combat and lost! 1 day, 23:29:20 is added to ayleid's clock.
+[11/13/17 02:41:27] ayleid [644/874] has challenged Mex [191/528] in combat and won! 3 days, 22:17:50 is removed from ayleid's clock.
+[11/13/17 02:41:27] In the fierce battle, Mex dropped their level 43 pair of gloves! ayleid picks it up, tossing their old level 24 pair of gloves to Mex.
+[11/13/17 03:41:35] bunu [410/551] has challenged will [115/504] in combat and won! 0 days, 04:20:17 is removed from bunu's clock.
+[11/13/17 03:44:09] GLaDOS was decapitated, temporarily... This terrible calamity has slowed them 0 days, 08:03:49 from level 54.
+[11/13/17 04:41:44] bunu [247/551] has challenged shrew [521/549] in combat and lost! 0 days, 01:57:43 is added to bunu's clock.
+[11/13/17 05:41:53] ayleid [169/895] has challenged idlerpg [440/815] in combat and lost! 2 days, 14:48:21 is added to ayleid's clock.
+[11/13/17 06:42:02] Andee [488/503] has challenged Darkel [388/660] in combat and won! 1 day, 06:15:18 is removed from Andee's clock.
+[11/13/17 06:47:35] Jake gained a sixth sense! This wondrous cowsend has accelerated them 0 days, 13:25:04 towards level 51.
+[11/13/17 07:36:53] GLaDOS stopped using dial-up! This wondrous cowsend has accelerated them 0 days, 06:17:56 towards level 54.
+[11/13/17 07:42:12] bag [194/409] has challenged Darkel [8/660] in combat and won! 2 days, 13:19:20 is removed from bag's clock.
+[11/13/17 08:42:21] will [86/504] has challenged bunu [521/551] in combat and lost! 0 days, 04:46:33 is added to will's clock.
+[11/13/17 09:30:58] will, bag, Andee, and graymalkin have completed their journey! 25% of their burden is eliminated.
+[11/13/17 09:38:26] Andee [168/503] has come upon will [26/504] and taken them in combat! 0 days, 19:27:03 is removed from Andee's clock.
+[11/13/17 09:42:29] ayleid [840/895] has challenged catboy [427/520] in combat and won! 3 days, 17:17:28 is removed from ayleid's clock.
+[11/13/17 09:56:40] graymalkin [127/563] has come upon Andee [141/503] and been defeated in combat! 0 days, 04:48:22 is added to graymalkin's clock.
+[11/13/17 10:30:39] shrew was visited by a very pretty nymph! This wondrous cowsend has accelerated them 1 day, 07:56:25 towards level 55.
+[11/13/17 10:42:37] GLaDOS [503/558] has challenged idlerpg [602/815] in combat and lost! 0 days, 09:33:31 is added to GLaDOS's clock.
+[11/13/17 11:21:58] Andee [369/503] has come upon Darkel [210/660] and taken them in combat! 0 days, 16:41:52 is removed from Andee's clock.
+[11/13/17 11:42:45] bunu [178/551] has challenged graymalkin [331/563] in combat and lost! 0 days, 01:50:16 is added to bunu's clock.
+[11/13/17 12:04:27] graymalkin [4/563] has come upon Andee [214/503] and been defeated in combat! 0 days, 04:59:37 is added to graymalkin's clock.
+[11/13/17 12:42:54] shrew [187/549] has challenged idlerpg [316/815] in combat and lost! 1 day, 01:37:20 is added to shrew's clock.
+[11/13/17 13:43:02] bag [294/409] has challenged Andee [178/503] in combat and won! 1 day, 15:17:23 is removed from bag's clock.
+[11/13/17 14:43:11] Darkel [277/660] has challenged catboy [33/520] in combat and won! 2 days, 02:01:00 is removed from Darkel's clock.
+[11/13/17 15:43:20] bunu [316/551] has challenged GLaDOS [446/558] in combat and lost! 0 days, 01:27:22 is added to bunu's clock.
+[11/13/17 16:43:29] ayleid [436/895] has challenged catboy [277/520] in combat and won! 3 days, 04:46:16 is removed from ayleid's clock.
+[11/13/17 17:43:38] Andee [427/503] has challenged bunu [115/551] in combat and won! 0 days, 13:42:00 is removed from Andee's clock.
+[11/13/17 17:47:51] GLaDOS was visited by a very pretty nymph! This wondrous cowsend has accelerated them 0 days, 11:46:01 towards level 54.
+[11/13/17 18:43:49] graymalkin [406/563] has challenged catboy [324/520] in combat and won! 0 days, 09:03:28 is removed from graymalkin's clock.
+[11/13/17 19:43:58] Mex [175/511] has challenged will [93/504] in combat and won! 0 days, 02:40:18 is removed from Mex's clock.
+[11/13/17 20:44:07] shrew [508/549] has challenged will [120/504] in combat and won! 1 day, 11:35:50 is removed from shrew's clock.
+[11/13/17 21:44:15] bunu [73/551] has challenged shrew [403/549] in combat and lost! 0 days, 01:08:13 is added to bunu's clock.
+[11/13/17 22:44:22] Mex [132/511] has challenged graymalkin [258/563] in combat and lost! 0 days, 01:11:23 is added to Mex's clock.
+[11/13/17 23:44:33] will [208/504] has challenged GLaDOS [131/558] in combat and won! 0 days, 05:11:21 is removed from will's clock.
+[11/14/17 00:44:43] bag [10/409] has challenged catboy [93/520] in combat and lost! 0 days, 17:38:01 is added to bag's clock.
+[11/14/17 01:44:52] will [63/504] has challenged Andee [33/503] in combat and won! 0 days, 04:15:14 is removed from will's clock.
+[11/14/17 02:32:50] Andee found an exploit in the IRPG code! This wondrous cowsend has accelerated them 0 days, 09:56:38 towards level 55.
+[11/14/17 02:45:01] Darkel [478/660] has challenged ayleid [766/895] in combat and lost! 1 day, 01:48:56 is added to Darkel's clock.
+[11/14/17 03:45:11] Jake [146/566] has challenged bag [153/409] in combat and lost! 0 days, 11:00:40 is added to Jake's clock.
+[11/14/17 04:45:20] catboy [430/520] has challenged ayleid [806/895] in combat and lost! 1 day, 13:53:59 is added to catboy's clock.
+[11/14/17 05:45:29] Jake [521/566] has challenged Mex [262/511] in combat and won! 0 days, 21:37:13 is removed from Jake's clock.
+[11/14/17 06:04:32] graymalkin, ayleid, and bunu [533/2009] have team battled shrew, Darkel, and catboy [361/1729] and won! 0 days, 01:48:30 is removed from their clocks.
+[11/14/17 06:45:39] shrew [331/549] has challenged graymalkin [321/563] in combat and won! 1 day, 07:56:54 is removed from shrew's clock.
+[11/14/17 07:45:48] GLaDOS [242/558] has challenged bunu [142/551] in combat and won! 0 days, 09:24:08 is removed from GLaDOS's clock.
+[11/14/17 08:26:14] Darkel and ayleid have not let the iniquities of evil men poison them. Together have they prayed to their Cow, and it is his milk that now rains upon them. 8% of their time is removed from their clocks.
+[11/14/17 08:30:41] Thereupon He stretched out His little finger among them and consumed ayleid with fire, slowing the heathen 6 days, 05:48:40 from level 57.
+[11/14/17 08:45:56] bag [134/409] has challenged GLaDOS [444/558] in combat and lost! 0 days, 18:18:24 is added to bag's clock.
+[11/14/17 09:46:05] graymalkin [436/563] has challenged bunu [445/551] in combat and lost! 0 days, 03:03:50 is added to graymalkin's clock.
+[11/14/17 10:46:14] Mex [230/511] has challenged ayleid [591/895] in combat and lost! 0 days, 00:19:21 is added to Mex's clock.
+[11/14/17 11:42:39] Darkel found kitten! This wondrous cowsend has accelerated them 1 day, 10:20:02 towards level 56.
+[11/14/17 11:46:22] Darkel [102/660] has challenged idlerpg [706/815] in combat and lost! 1 day, 03:46:23 is added to Darkel's clock.
+[11/14/17 12:12:08] ayleid and bunu have not let the iniquities of evil men poison them. Together have they prayed to their Cow, and it is his milk that now rains upon them. 8% of their time is removed from their clocks.
+[11/14/17 12:46:31] catboy [487/520] has challenged bag [405/409] in combat and won! 2 days, 17:28:17 is removed from catboy's clock.
+[11/14/17 13:01:16] will, bag, bunu, and catboy have completed their journey! 25% of their burden is eliminated.
+[11/14/17 13:01:34] catboy [135/520] has come upon will [250/504] and been defeated in combat! 0 days, 22:59:23 is added to catboy's clock.
+[11/14/17 13:10:14] bunu [229/559] has challenged ayleid [172/895] in combat and won! 2 days, 22:35:03 is removed from bunu's clock.
+[11/14/17 13:46:39] catboy [178/520] has challenged ayleid [540/895] in combat and lost! 1 day, 04:03:11 is added to catboy's clock.
+[11/14/17 14:41:15] catboy had his clothes laundered by a passing fairy! This wondrous cowsend has accelerated them 1 day, 02:26:47 towards level 56.
+[11/14/17 14:46:49] shrew [259/549] has challenged GLaDOS [306/558] in combat and lost! 0 days, 13:10:35 is added to shrew's clock.
+[11/14/17 14:48:19] shrew discovered a secret, underground passage! This wondrous cowsend has accelerated them 0 days, 14:05:49 towards level 55.
+[11/14/17 15:07:28] Mex [201/540] has challenged ayleid [799/895] in combat and lost! 1 day, 10:46:14 is added to Mex's clock.
+[11/14/17 15:46:58] GLaDOS [63/558] has challenged will [195/504] in combat and lost! 0 days, 03:50:35 is added to GLaDOS's clock.
+[11/14/17 16:33:06] Darkel found a pair of Nikes! This wondrous cowsend has accelerated them 1 day, 12:05:13 towards level 56.
+[11/14/17 16:47:04] graymalkin [173/563] has challenged will [211/504] in combat and lost! 0 days, 02:47:14 is added to graymalkin's clock.
+[11/14/17 16:56:09] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried bunu 3 days, 09:40:00 toward level 55.
+[11/14/17 17:47:13] bag [22/409] has challenged GLaDOS [144/558] in combat and lost! 0 days, 14:08:02 is added to bag's clock.
+[11/14/17 18:47:22] GLaDOS [42/558] has challenged Andee [337/503] in combat and lost! 0 days, 03:54:06 is added to GLaDOS's clock.
+[11/14/17 19:32:14] graymalkin and catboy have not let the iniquities of evil men poison them. Together have they prayed to their Cow, and it is his milk that now rains upon them. 11% of their time is removed from their clocks.
+[11/14/17 19:47:31] catboy [426/520] has challenged Andee [121/503] in combat and won! 1 day, 16:03:30 is removed from catboy's clock.
+[11/14/17 20:47:39] GLaDOS [467/558] has challenged graymalkin [138/563] in combat and won! 0 days, 08:04:09 is removed from GLaDOS's clock.
+[11/14/17 21:47:48] Mex [409/540] has challenged will [70/504] in combat and won! 2 days, 12:09:18 is removed from Mex's clock.
+[11/14/17 22:47:57] Darkel [500/660] has challenged will [105/504] in combat and won! 1 day, 09:35:26 is removed from Darkel's clock.
+[11/14/17 23:48:06] bunu [476/559] has challenged catboy [171/520] in combat and won! 1 day, 20:22:04 is removed from bunu's clock.
+[11/15/17 00:39:47] will was accepted into Pi Beta Phi! This wondrous cowsend has accelerated them 0 days, 00:08:17 towards level 55.
+[11/15/17 00:48:16] Mex [22/540] has challenged bunu [181/559] in combat and lost! 1 day, 03:58:11 is added to Mex's clock.
+[11/15/17 00:49:10] graymalkin [304/563] has come upon GLaDOS [235/558] and taken them in combat! 0 days, 03:55:28 is removed from graymalkin's clock.
+[11/15/17 01:46:49] will [239/527] has challenged catboy [289/520] in combat and lost! 1 day, 16:56:20 is added to will's clock.
+[11/15/17 01:48:25] Mex [389/540] has challenged will [237/527] in combat and won! 2 days, 07:26:58 is removed from Mex's clock.
+[11/15/17 02:48:33] will [293/527] has challenged ayleid [153/895] in combat and won! 3 days, 15:27:55 is removed from will's clock.
+[11/15/17 03:48:41] Jake [238/566] has challenged bunu [199/559] in combat and won! 0 days, 15:56:34 is removed from Jake's clock.
+[11/15/17 04:48:49] bunu [14/559] has challenged Mex [140/540] in combat and lost! 0 days, 20:26:02 is added to bunu's clock.
+[11/15/17 05:48:59] Andee [103/503] has challenged Darkel [465/660] in combat and lost! 0 days, 03:11:44 is added to Andee's clock.
+[11/15/17 06:49:08] Darkel [589/660] has challenged shrew [75/549] in combat and won! 1 day, 04:10:53 is removed from Darkel's clock.
+[11/15/17 07:49:18] Jake [444/566] has challenged will [487/527] in combat and lost! 0 days, 07:11:16 is added to Jake's clock.
+[11/15/17 08:49:27] bunu [338/559] has challenged Mex [309/540] in combat and won! 1 day, 16:05:01 is removed from bunu's clock.
+[11/15/17 09:49:36] shrew [103/549] has challenged graymalkin [69/563] in combat and won! 0 days, 23:33:27 is removed from shrew's clock.
+[11/15/17 10:49:45] Darkel [424/660] has challenged bunu [349/559] in combat and won! 0 days, 23:59:47 is removed from Darkel's clock.
+[11/15/17 11:49:56] will [82/527] has challenged catboy [284/520] in combat and lost! 1 day, 12:58:42 is added to will's clock.
+[11/15/17 12:50:05] Andee [271/503] has challenged idlerpg [735/815] in combat and lost! 0 days, 04:10:59 is added to Andee's clock.
+[11/15/17 13:50:14] catboy [373/520] has challenged graymalkin [152/563] in combat and won! 1 day, 11:00:19 is removed from catboy's clock.
+[11/15/17 13:50:14] In the fierce battle, graymalkin dropped their level 51 tunic! catboy picks it up, tossing their old level 42 tunic to graymalkin.
+[11/15/17 14:50:24] graymalkin [295/553] has challenged Andee [266/503] in combat and won! 0 days, 01:35:29 is removed from graymalkin's clock.
+[11/15/17 15:50:34] catboy [441/530] has challenged Mex [131/540] in combat and won! 1 day, 03:41:36 is removed from catboy's clock.
+[11/15/17 16:50:43] will [183/527] has challenged bunu [328/559] in combat and lost! 1 day, 15:12:57 is added to will's clock.
+[11/15/17 17:50:53] shrew [189/549] has challenged Jake [547/566] in combat and lost! 0 days, 09:34:05 is added to shrew's clock.
+[11/15/17 18:10:02] GLaDOS, bag, ayleid, and catboy have blessed the realm by completing their quest! 25% of their burden is eliminated.
+[11/15/17 18:51:02] will [236/527] has challenged Darkel [90/660] in combat and won! 3 days, 05:40:01 is removed from will's clock.
+[11/15/17 19:51:10] Darkel [142/660] has challenged GLaDOS [502/558] in combat and lost! 0 days, 10:36:35 is added to Darkel's clock.
+[11/15/17 20:51:18] GLaDOS [165/558] has challenged catboy [488/530] in combat and lost! 0 days, 01:17:31 is added to GLaDOS's clock.
+[11/15/17 21:51:26] Jake [277/566] has challenged bag [215/409] in combat and won! 0 days, 12:27:31 is removed from Jake's clock.
+[11/15/17 22:51:35] ayleid [53/895] has challenged will [276/527] in combat and lost! 1 day, 03:46:05 is added to ayleid's clock.
+[11/15/17 23:51:44] graymalkin [342/553] has challenged ayleid [196/895] in combat and won! 0 days, 00:13:41 is removed from graymalkin's clock.
+[11/16/17 00:18:48] GLaDOS was visited by a very pretty nymph! This wondrous cowsend has accelerated them 0 days, 01:27:58 towards level 54.
+[11/16/17 00:42:49] graymalkin [40/553] has come upon will [352/527] and been defeated in combat! 0 days, 00:02:18 is added to graymalkin's clock.
+[11/16/17 00:53:15] Andee [346/503] has challenged catboy [376/530] in combat and lost! 0 days, 02:22:38 is added to Andee's clock.
+[11/16/17 01:18:06] graymalkin [378/553] has challenged Andee [168/503] in combat and won! 4 days, 06:18:18 is removed from graymalkin's clock.
+[11/16/17 01:53:52] shrew [435/549] has challenged catboy [144/530] in combat and won! 0 days, 17:58:01 is removed from shrew's clock.
+[11/16/17 02:54:01] Jake [133/566] has challenged catboy [457/530] in combat and lost! 0 days, 05:29:00 is added to Jake's clock.
+[11/16/17 02:57:46] shrew is forsaken by their evil Cowgod. 0 days, 01:11:30 is added to their clock.
+[11/16/17 03:33:01] catboy found a pair of Nikes! This wondrous cowsend has accelerated them 0 days, 12:12:04 towards level 56.
+[11/16/17 03:54:10] shrew [236/549] has challenged bag [365/409] in combat and lost! 0 days, 08:21:35 is added to shrew's clock.
+[11/16/17 04:54:20] bunu [291/559] has challenged bag [107/409] in combat and won! 1 day, 08:15:44 is removed from bunu's clock.
+[11/16/17 05:54:29] graymalkin [76/553] has challenged catboy [329/530] in combat and lost! 1 day, 23:36:13 is added to graymalkin's clock.
+[11/16/17 06:54:38] shrew [336/549] has challenged bunu [144/559] in combat and won! 0 days, 16:13:16 is removed from shrew's clock.
+[11/16/17 07:54:46] GLaDOS [144/558] has challenged bag [262/409] in combat and lost! 0 days, 00:30:21 is added to GLaDOS's clock.
+[11/16/17 08:14:13] Jake was visited by a very pretty nymph! This wondrous cowsend has accelerated them 0 days, 07:50:53 towards level 51.
+[11/16/17 08:54:56] Mex [401/540] has challenged bunu [55/559] in combat and won! 1 day, 20:11:49 is removed from Mex's clock.
+[11/16/17 09:55:04] graymalkin [234/553] has challenged bunu [452/559] in combat and lost! 2 days, 02:39:18 is added to graymalkin's clock.
+[11/16/17 10:55:13] Andee [78/503] has challenged graymalkin [321/553] in combat and lost! 0 days, 02:06:16 is added to Andee's clock.
+[11/16/17 11:22:40] graymalkin found kitten! This wondrous cowsend has accelerated them 3 days, 05:17:02 towards level 58.
+[11/16/17 11:55:21] Andee [205/503] has challenged Mex [288/540] in combat and lost! 0 days, 01:55:06 is added to Andee's clock.
+[11/16/17 12:55:31] shrew [129/549] has challenged bag [391/409] in combat and lost! 0 days, 07:10:40 is added to shrew's clock.
+[11/16/17 13:55:40] Darkel [221/660] has challenged ayleid [236/895] in combat and lost! 0 days, 11:31:41 is added to Darkel's clock.
+[11/16/17 13:57:01] Andee was rejuvenated by drinking from a magic stream! This wondrous cowsend has accelerated them 0 days, 02:27:24 towards level 55.
+[11/16/17 14:55:51] Mex [462/540] has challenged idlerpg [231/815] in combat and won! 2 days, 09:57:11 is removed from Mex's clock.
+[11/16/17 15:38:42] GLaDOS [144/558] has challenged catboy [273/530] in combat and lost! 1 day, 11:17:31 is added to GLaDOS's clock.
+[11/16/17 15:56:00] ayleid [364/895] has challenged Mex [496/540] in combat and lost! 1 day, 04:31:00 is added to ayleid's clock.
+[11/16/17 16:56:09] graymalkin [2/553] has challenged bag [108/409] in combat and lost! 2 days, 00:17:59 is added to graymalkin's clock.
+[11/16/17 17:29:53] shrew, Darkel, ayleid, and bunu have completed their journey! 25% of their burden is eliminated.
+[11/16/17 17:56:18] Mex [426/540] has challenged Darkel [265/660] in combat and won! 1 day, 05:44:40 is removed from Mex's clock.
+[11/16/17 18:55:06] catboy was accepted into Pi Beta Phi! This wondrous cowsend has accelerated them 0 days, 08:38:24 towards level 56.
+[11/16/17 18:56:28] Mex [480/540] has challenged shrew [374/549] in combat and won! 1 day, 01:44:51 is removed from Mex's clock.
+[11/16/17 19:56:35] catboy [497/530] has challenged Jake [533/566] in combat and lost! 0 days, 06:53:00 is added to catboy's clock.
+[11/16/17 20:56:43] graymalkin [209/553] has challenged bag [97/409] in combat and won! 3 days, 23:27:27 is removed from graymalkin's clock.
+[11/16/17 21:56:51] catboy [453/530] has challenged shrew [531/549] in combat and lost! 0 days, 07:13:30 is added to catboy's clock.
+[11/16/17 22:57:00] Jake [326/566] has challenged Andee [299/503] in combat and won! 0 days, 07:16:10 is removed from Jake's clock.
+[11/16/17 23:57:09] ayleid [248/895] has challenged Darkel [100/660] in combat and won! 1 day, 17:30:30 is removed from ayleid's clock.
+[11/17/17 00:57:56] Andee [235/503] has challenged graymalkin [10/553] in combat and won! 0 days, 01:56:09 is removed from Andee's clock.
+[11/17/17 01:58:51] Mex [198/540] has challenged bag [52/409] in combat and won! 0 days, 21:29:06 is removed from Mex's clock.
+[11/17/17 03:00:09] GLaDOS [26/558] has challenged bag [255/409] in combat and lost! 1 day, 12:58:03 is added to GLaDOS's clock.
+[11/17/17 04:00:19] bunu [5/559] has challenged ayleid [50/895] in combat and lost! 0 days, 11:21:30 is added to bunu's clock.
+[11/17/17 04:51:47] ayleid, catboy, and bunu [1381/1984] have team battled Andee, Jake, and GLaDOS [458/1627] and won! 0 days, 20:42:17 is removed from their clocks.
+[11/17/17 05:00:28] GLaDOS [4/558] has challenged graymalkin [7/553] in combat and lost! 1 day, 21:02:44 is added to GLaDOS's clock.
+[11/17/17 06:00:37] catboy [433/530] has challenged Andee [194/503] in combat and won! 0 days, 10:37:02 is removed from catboy's clock.
+[11/17/17 07:00:48] bunu [540/559] has challenged graymalkin [43/553] in combat and won! 0 days, 18:08:51 is removed from bunu's clock.
+[11/17/17 08:00:57] graymalkin [302/553] has challenged idlerpg [787/815] in combat and lost! 2 days, 14:46:34 is added to graymalkin's clock.
+[11/17/17 09:01:06] shrew [176/549] has challenged Mex [305/540] in combat and lost! 0 days, 04:26:01 is added to shrew's clock.
+[11/17/17 10:01:14] ayleid [725/895] has challenged Mex [342/540] in combat and won! 1 day, 08:06:42 is removed from ayleid's clock.
+[11/17/17 11:01:23] bag [212/409] has challenged graymalkin [180/553] in combat and won! 0 days, 14:24:19 is removed from bag's clock.
+[11/17/17 12:01:32] Andee [57/503] has challenged Darkel [492/660] in combat and lost! 0 days, 00:03:29 is added to Andee's clock.
+[11/17/17 12:12:19] sigwinch [0/1] has challenged catboy [381/530] in combat and lost! 0 days, 00:00:48 is added to sigwinch's clock.
+[11/17/17 12:38:14] sigwinch [0/8] has challenged Andee [244/503] in combat and lost! 0 days, 00:01:05 is added to sigwinch's clock.
+[11/17/17 12:54:49] Andee [219/503] has challenged GLaDOS [300/558] in combat and lost! 1 day, 16:56:20 is added to Andee's clock.
+[11/17/17 13:01:41] shrew [247/549] has challenged Jake [50/566] in combat and won! 0 days, 07:39:06 is removed from shrew's clock.
+[11/17/17 13:58:22] sigwinch [18/33] has challenged idlerpg [284/815] in combat and lost! 0 days, 00:02:49 is added to sigwinch's clock.
+[11/17/17 14:01:50] ayleid [664/895] has challenged catboy [265/530] in combat and won! 1 day, 03:24:57 is removed from ayleid's clock.
+[11/17/17 15:01:59] Darkel [566/660] has challenged ayleid [884/895] in combat and lost! 0 days, 07:24:03 is added to Darkel's clock.
+[11/17/17 15:40:19] sigwinch [13/47] has challenged graymalkin [340/553] in combat and lost! 0 days, 00:03:31 is added to sigwinch's clock.
+[11/17/17 16:02:08] Mex [71/540] has challenged Andee [286/503] in combat and lost! 0 days, 09:04:52 is added to Mex's clock.
+[11/17/17 16:27:57] sigwinch [24/58] has challenged catboy [209/530] in combat and lost! 0 days, 00:03:34 is added to sigwinch's clock.
+[11/17/17 16:59:56] Mex, bunu, graymalkin, and catboy have completed their journey! 25% of their burden is eliminated.
+[11/17/17 17:02:17] ayleid [855/895] has challenged graymalkin [423/553] in combat and won! 1 day, 01:15:56 is removed from ayleid's clock.
+[11/17/17 18:02:26] graymalkin [169/553] has challenged catboy [150/530] in combat and won! 2 days, 18:18:57 is removed from graymalkin's clock.
+[11/17/17 18:22:04] sigwinch [60/66] has challenged bag [226/409] in combat and lost! 0 days, 00:04:49 is added to sigwinch's clock.
+[11/17/17 19:02:32] Jake [8/566] has challenged will [104/527] in combat and lost! 0 days, 01:59:56 is added to Jake's clock.
+[11/17/17 20:02:41] Mex [61/540] has challenged Darkel [98/660] in combat and lost! 0 days, 07:01:25 is added to Mex's clock.
+[11/17/17 21:02:49] bag [193/409] has challenged sigwinch [22/87] in combat and won! 0 days, 05:29:33 is removed from bag's clock.
+[11/17/17 22:02:58] Darkel [62/660] has challenged Mex [375/540] in combat and lost! 0 days, 06:30:09 is added to Darkel's clock.
+[11/17/17 23:03:06] bag [12/409] has challenged Andee [199/503] in combat and lost! 0 days, 04:58:04 is added to bag's clock.
+[11/18/17 00:03:15] catboy [159/530] has challenged sigwinch [59/95] in combat and won! 0 days, 02:39:34 is removed from catboy's clock.
+[11/18/17 00:15:44] sigwinch [70/111] has challenged Mex [134/540] in combat and lost! 0 days, 00:08:43 is added to sigwinch's clock.
+[11/18/17 01:03:27] bunu [17/559] has challenged sigwinch [100/111] in combat and lost! 0 days, 04:45:51 is added to bunu's clock.
+[11/18/17 01:35:07] Jake was rejuvenated by drinking from a magic stream! This wondrous cowsend has accelerated them 0 days, 01:26:27 towards level 51.
+[11/18/17 02:03:54] Jake [293/566] has challenged Darkel [226/660] in combat and won! 0 days, 02:52:20 is removed from Jake's clock.
+[11/18/17 02:03:54] In the fierce battle, Darkel dropped their level 50 tunic! Jake picks it up, tossing their old level 31 tunic to Darkel.
+[11/18/17 02:29:08] sigwinch [97/131] has challenged will [486/527] in combat and lost! 0 days, 00:10:07 is added to sigwinch's clock.
+[11/18/17 03:04:16] catboy [304/530] has challenged idlerpg [19/815] in combat and won! 0 days, 06:27:48 is removed from catboy's clock.
+[11/18/17 04:04:24] Jake [484/585] has challenged idlerpg [527/815] in combat and lost! 0 days, 01:43:17 is added to Jake's clock.
+[11/18/17 05:04:33] graymalkin [364/553] has challenged Jake [319/585] in combat and won! 2 days, 03:55:57 is removed from graymalkin's clock.
+[11/18/17 06:01:42] ayleid and catboy have not let the iniquities of evil men poison them. Together have they prayed to their Cow, and it is his milk that now rains upon them. 6% of their time is removed from their clocks.
+[11/18/17 06:04:43] bag [20/409] has challenged Andee [79/503] in combat and lost! 0 days, 04:49:25 is added to bag's clock.
+[11/18/17 07:04:52] Andee [66/503] has challenged GLaDOS [508/558] in combat and lost! 1 day, 18:31:58 is added to Andee's clock.
+[11/18/17 08:05:01] graymalkin [123/553] has challenged GLaDOS [113/558] in combat and won! 2 days, 01:07:05 is removed from graymalkin's clock.
+[11/18/17 09:05:10] graymalkin [519/553] has challenged bunu [132/559] in combat and won! 1 day, 18:36:09 is removed from graymalkin's clock.
+[11/18/17 09:38:52] GLaDOS slipped and dropped their charm in a dirty bog! GLaDOS's charm loses 10% of its effectiveness.
+[11/18/17 10:05:19] catboy [324/530] has challenged Jake [548/585] in combat and lost! 0 days, 01:13:20 is added to catboy's clock.
+[11/18/17 10:12:50] Jake [529/585] has come upon ayleid [54/895] and taken them in combat! 0 days, 01:47:28 is removed from Jake's clock.
+[11/18/17 11:05:29] catboy [369/530] has challenged bag [6/409] in combat and won! 0 days, 02:17:55 is removed from catboy's clock.
+[11/18/17 12:05:37] will [157/527] has challenged Mex [269/540] in combat and lost! 1 day, 10:53:47 is added to will's clock.
+[11/18/17 13:05:46] will [53/527] has challenged ayleid [35/895] in combat and won! 3 days, 02:32:17 is removed from will's clock.
+[11/18/17 14:05:56] GLaDOS [493/553] has challenged bag [122/409] in combat and won! 3 days, 02:45:11 is removed from GLaDOS's clock.
+[11/18/17 14:05:56] GLaDOS has dealt bag a Critical Strike! 0 days, 15:46:17 is added to bag's clock.
+[11/18/17 14:07:39] Andee found a one-time-use spell of quickness! This wondrous cowsend has accelerated them 2 days, 09:52:44 towards level 56.
+[11/18/17 15:06:04] graymalkin [330/553] has challenged will [175/527] in combat and won! 1 day, 12:16:56 is removed from graymalkin's clock.
+[11/18/17 15:06:04] graymalkin has dealt will a Critical Strike! 1 day, 17:01:42 is added to will's clock.
+[11/18/17 15:27:52] shrew, bunu, and will [375/1635] have team battled Darkel, Andee, and catboy [997/1672] and lost! 0 days, 05:56:07 is added to their clocks.
+[11/18/17 16:01:56] bunu discovered caffeinated coffee! This wondrous cowsend has accelerated them 0 days, 05:44:26 towards level 55.
+[11/18/17 16:06:12] Andee [362/503] has challenged graymalkin [173/553] in combat and won! 3 days, 09:39:15 is removed from Andee's clock.
+[11/18/17 16:37:08] Andee, catboy, Darkel, and GLaDOS have blessed the realm by completing their quest! 25% of their burden is eliminated.
+[11/18/17 16:43:39] graymalkin hit it off with a drunk sorority chick named Jenny! This wondrous cowsend has accelerated them 1 day, 04:56:32 towards level 58.
+[11/18/17 17:06:21] shrew [427/549] has challenged Darkel [424/639] in combat and won! 0 days, 04:24:58 is removed from shrew's clock.
+[11/18/17 18:06:30] Jake [562/585] has challenged GLaDOS [418/553] in combat and won! 0 days, 00:24:15 is removed from Jake's clock.
+[11/18/17 19:06:38] Jake [448/585] has challenged sigwinch [77/172] in combat and won! 0 days, 00:07:09 is removed from Jake's clock.
+[11/18/17 20:02:55] Mex hit it off with a drunk sorority chick named Jenny! This wondrous cowsend has accelerated them 0 days, 07:30:08 towards level 54.
+[11/18/17 20:06:46] shrew [375/549] has challenged Andee [502/503] in combat and lost! 0 days, 01:51:30 is added to shrew's clock.
+[11/18/17 20:41:36] Jake [277/585] has challenged Andee [20/503] in combat and won! 1 day, 17:59:25 is removed from Jake's clock.
+[11/18/17 21:06:54] will [275/527] has challenged catboy [234/530] in combat and won! 2 days, 16:35:12 is removed from will's clock.
+[11/18/17 22:07:02] Darkel [408/639] has challenged idlerpg [259/815] in combat and won! 0 days, 11:01:28 is removed from Darkel's clock.
+[11/18/17 23:07:16] Jake [67/585] has challenged Mex [508/540] in combat and lost! 0 days, 19:30:03 is added to Jake's clock.
+[11/18/17 23:53:25] Mex tamed a wild horse! This wondrous cowsend has accelerated them 0 days, 05:02:28 towards level 54.
+[11/19/17 00:00:38] catboy [157/815] has challenged Jake [536/585] in combat and lost! 1 day, 23:29:20 is added to catboy's clock.
+[11/19/17 00:07:24] Jake [282/585] has challenged graymalkin [71/553] in combat and won! 1 day, 17:35:30 is removed from Jake's clock.
+[11/19/17 00:17:41] sigwinch [131/191] has challenged bunu [27/559] in combat and won! 0 days, 00:45:48 is removed from sigwinch's clock.
+[11/19/17 01:07:38] will [48/527] has challenged Mex [281/540] in combat and lost! 1 day, 05:58:32 is added to will's clock.
+[11/19/17 02:07:54] shrew [94/549] has challenged bag [203/409] in combat and lost! 0 days, 01:34:01 is added to shrew's clock.
+[11/19/17 03:08:03] graymalkin [47/553] has challenged ayleid [101/895] in combat and lost! 0 days, 16:08:49 is added to graymalkin's clock.
+[11/19/17 04:08:12] will [488/527] has challenged graymalkin [424/553] in combat and won! 2 days, 15:43:35 is removed from will's clock.
+[11/19/17 04:42:21] catboy [164/815] has come upon Andee [469/503] and been defeated in combat! 2 days, 02:29:05 is added to catboy's clock.
+[11/19/17 05:08:21] bag [313/409] has challenged idlerpg [59/815] in combat and won! 0 days, 13:17:20 is removed from bag's clock.
+[11/19/17 05:24:14] sigwinch [40/212] has challenged ayleid [609/895] in combat and lost! 0 days, 00:32:41 is added to sigwinch's clock.
+[11/19/17 06:08:30] Mex [476/540] has challenged Jake [214/585] in combat and won! 0 days, 07:17:12 is removed from Mex's clock.
+[11/19/17 07:08:42] will [63/527] has challenged bag [293/409] in combat and lost! 1 day, 03:11:30 is added to will's clock.
+[11/19/17 08:08:52] shrew [397/549] has challenged GLaDOS [37/553] in combat and won! 0 days, 02:19:55 is removed from shrew's clock.
+[11/19/17 09:09:01] catboy [387/815] has challenged GLaDOS [219/553] in combat and won! 4 days, 03:44:33 is removed from catboy's clock.
+[11/19/17 10:09:10] Darkel [201/639] has challenged graymalkin [384/553] in combat and lost! 0 days, 02:33:54 is added to Darkel's clock.
+[11/19/17 11:09:18] catboy [747/815] has challenged Darkel [446/639] in combat and won! 3 days, 14:30:55 is removed from catboy's clock.
+[11/19/17 12:09:27] ayleid [302/895] has challenged idlerpg [388/815] in combat and lost! 0 days, 10:21:18 is added to ayleid's clock.
+[11/19/17 12:45:39] sigwinch [128/225] has challenged idlerpg [782/815] in combat and lost! 0 days, 00:47:24 is added to sigwinch's clock.
+[11/19/17 13:09:36] will [274/527] has challenged ayleid [183/895] in combat and won! 2 days, 09:20:54 is removed from will's clock.
+[11/19/17 14:02:02] Jake ate a poisonous fruit. This terrible calamity has slowed them 0 days, 14:29:41 from level 52.
+[11/19/17 14:09:45] bunu [5/559] has challenged idlerpg [443/815] in combat and lost! 0 days, 03:35:29 is added to bunu's clock.
+[11/19/17 14:39:44] Darkel, bag, GLaDOS, and Mex have completed their journey! 25% of their burden is eliminated.
+[11/19/17 14:42:44] shrew was bitten by a radioactive spider! This wondrous cowsend has accelerated them 0 days, 00:43:24 towards level 55.
+[11/19/17 15:09:55] Jake [61/585] has challenged shrew [205/549] in combat and lost! 0 days, 17:50:46 is added to Jake's clock.
+[11/19/17 16:10:03] bag [203/409] has challenged will [439/527] in combat and lost! 0 days, 02:11:07 is added to bag's clock.
+[11/19/17 17:10:11] Andee [456/503] has challenged graymalkin [458/553] in combat and lost! 1 day, 04:06:01 is added to Andee's clock.
+[11/19/17 18:10:19] Darkel [571/639] has challenged Jake [313/585] in combat and won! 0 days, 02:17:21 is removed from Darkel's clock.
+[11/19/17 19:10:27] GLaDOS [3/553] has challenged Darkel [226/639] in combat and lost! 0 days, 18:07:33 is added to GLaDOS's clock.
+[11/19/17 20:10:35] ayleid [450/895] has challenged Darkel [403/639] in combat and won! 0 days, 13:45:55 is removed from ayleid's clock.
+[11/19/17 21:03:37] will bribed the local IRPG administrator! This wondrous cowsend has accelerated them 1 day, 17:19:33 towards level 56.
+[11/19/17 21:10:43] Darkel [256/639] has challenged graymalkin [417/553] in combat and lost! 0 days, 01:06:09 is added to Darkel's clock.
+[11/19/17 21:16:56] Jake slipped and dropped their charm in a dirty bog! Jake's charm loses 10% of its effectiveness.
+[11/19/17 21:27:13] sigwinch [58/259] has challenged bunu [359/559] in combat and lost! 0 days, 00:38:30 is added to sigwinch's clock.
+[11/19/17 21:44:06] Darkel [229/639] has come upon Mex [385/540] and been defeated in combat! 0 days, 01:00:10 is added to Darkel's clock.
+[11/19/17 21:58:59] GLaDOS invented the wheel! This wondrous cowsend has accelerated them 0 days, 13:42:46 towards level 55.
+[11/19/17 22:10:51] ayleid [640/895] has challenged bunu [547/559] in combat and won! 0 days, 11:42:55 is removed from ayleid's clock.
+[11/19/17 23:01:49] shrew [267/549] has challenged ayleid [186/895] in combat and won! 3 days, 09:52:40 is removed from shrew's clock.
+[11/19/17 23:10:59] GLaDOS [260/553] has challenged Darkel [259/639] in combat and won! 1 day, 09:42:53 is removed from GLaDOS's clock.
+[11/20/17 00:11:10] bunu [431/559] has challenged idlerpg [693/815] in combat and lost! 0 days, 02:56:53 is added to bunu's clock.
+[11/20/17 01:00:36] The local wizard imbued will's pants with a Spirit of Fortitude! will's set of leggings gains 10% effectiveness.
+[11/20/17 01:11:27] Jake [454/579] has challenged idlerpg [238/815] in combat and won! 2 days, 04:33:11 is removed from Jake's clock.
+[11/20/17 01:27:27] ayleid found a pair of Nikes! This wondrous cowsend has accelerated them 0 days, 08:15:49 towards level 57.
+[11/20/17 02:11:43] will [440/530] has challenged sigwinch [119/259] in combat and won! 0 days, 20:51:16 is removed from will's clock.
+[11/20/17 02:24:42] shrew was accepted into Pi Beta Phi! This wondrous cowsend has accelerated them 2 days, 11:56:59 towards level 56.
+[11/20/17 03:11:52] Mex [534/540] has challenged graymalkin [477/553] in combat and won! 0 days, 02:57:40 is removed from Mex's clock.
+[11/20/17 03:55:17] will bribed the local IRPG administrator! This wondrous cowsend has accelerated them 0 days, 16:31:13 towards level 56.
+[11/20/17 04:09:04] bag's shield was damaged by a dragon's fiery breath! bag's shield loses 10% of its effectiveness.
+[11/20/17 04:12:02] graymalkin [478/553] has challenged shrew [277/549] in combat and won! 1 day, 01:04:45 is removed from graymalkin's clock.
+[11/20/17 05:12:10] will [490/530] has challenged ayleid [566/895] in combat and lost! 0 days, 20:36:11 is added to will's clock.
+[11/20/17 06:04:21] bag [372/405] has come upon sigwinch [55/259] and taken them in combat! 0 days, 01:21:54 is removed from bag's clock.
+[11/20/17 06:04:21] bag has dealt sigwinch a Critical Strike! 0 days, 00:07:51 is added to sigwinch's clock.
+[11/20/17 06:12:20] Jake [528/579] has challenged shrew [171/549] in combat and won! 1 day, 02:40:32 is removed from Jake's clock.
+[11/20/17 07:12:27] will [43/530] has challenged bag [266/405] in combat and lost! 0 days, 19:19:46 is added to will's clock.
+[11/20/17 07:23:35] sigwinch [199/262] has challenged catboy [671/815] in combat and lost! 0 days, 00:51:02 is added to sigwinch's clock.
+[11/20/17 08:12:38] ayleid [27/895] has challenged Darkel [290/639] in combat and lost! 0 days, 04:12:27 is added to ayleid's clock.
+[11/20/17 08:23:04] will [13/530] has come upon sigwinch [163/262] and been defeated in combat! 0 days, 20:36:01 is added to will's clock.
+[11/20/17 09:12:48] Mex [308/540] has challenged Andee [393/503] in combat and lost! 0 days, 00:51:08 is added to Mex's clock.
+[11/20/17 10:12:57] catboy [561/815] has challenged bag [263/405] in combat and won! 3 days, 00:16:13 is removed from catboy's clock.
+[11/20/17 11:13:06] catboy [587/815] has challenged GLaDOS [398/553] in combat and won! 2 days, 14:44:42 is removed from catboy's clock.
+[11/20/17 12:13:16] bag [28/405] has challenged catboy [491/815] in combat and lost! 0 days, 00:57:32 is added to bag's clock.
+[11/20/17 13:03:59] Darkel [573/639] has challenged sigwinch [84/262] in combat and won! 1 day, 23:29:20 is removed from Darkel's clock.
+[11/20/17 13:12:14] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried Darkel 7 days, 14:55:44 toward level 57.
+[11/20/17 13:13:25] catboy [131/815] has challenged bag [7/405] in combat and won! 2 days, 06:19:39 is removed from catboy's clock.
+[11/20/17 14:13:35] catboy [97/815] has challenged sigwinch [85/262] in combat and won! 1 day, 01:22:48 is removed from catboy's clock.
+[11/20/17 14:32:26] bunu, Jake, shrew, and GLaDOS have completed their journey! 25% of their burden is eliminated.
+[11/20/17 14:32:38] GLaDOS [178/553] has come upon Jake [174/579] and taken them in combat! 0 days, 18:55:27 is removed from GLaDOS's clock.
+[11/20/17 14:58:06] shrew [57/549] has come upon bunu [435/559] and been defeated in combat! 0 days, 22:24:50 is added to shrew's clock.
+[11/20/17 15:04:00] shrew found kitten! This wondrous cowsend has accelerated them 1 day, 03:24:04 towards level 56.
+[11/20/17 15:13:44] Jake [26/579] has challenged catboy [242/815] in combat and lost! 0 days, 10:09:22 is added to Jake's clock.
+[11/20/17 16:13:53] GLaDOS [494/553] has challenged graymalkin [21/553] in combat and won! 0 days, 19:11:33 is removed from GLaDOS's clock.
+[11/20/17 17:14:01] Mex [201/540] has challenged idlerpg [25/815] in combat and won! 0 days, 01:00:05 is removed from Mex's clock.
+[11/20/17 18:04:02] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried bag 0 days, 01:37:58 toward level 56.
+[11/20/17 18:14:10] Mex [279/540] has challenged shrew [417/549] in combat and lost! 0 days, 00:12:36 is added to Mex's clock.
+[11/20/17 18:52:37] sigwinch [62/262] has challenged bag [128/405] in combat and lost! 0 days, 00:51:48 is added to sigwinch's clock.
+[11/20/17 19:14:20] ayleid [744/895] has challenged bunu [171/559] in combat and won! 0 days, 06:55:39 is removed from ayleid's clock.
+[11/20/17 20:14:27] Mex [278/540] has challenged shrew [184/549] in combat and won! 0 days, 00:09:25 is removed from Mex's clock.
+[11/20/17 20:58:36] catboy, Mex, and graymalkin [1779/1908] have team battled Andee, GLaDOS, and Darkel [278/1695] and won! 0 days, 00:03:47 is removed from their clocks.
+[11/20/17 21:13:44] Mex [47/542] has challenged sigwinch [108/262] in combat and lost! 1 day, 11:17:31 is added to Mex's clock.
+[11/20/17 21:14:35] bag [16/405] has challenged Andee [245/503] in combat and lost! 0 days, 00:09:37 is added to bag's clock.
+[11/20/17 22:14:43] shrew [218/549] has challenged GLaDOS [317/553] in combat and lost! 0 days, 21:33:19 is added to shrew's clock.
+[11/20/17 23:14:51] graymalkin [358/553] has challenged Mex [456/542] in combat and lost! 0 days, 10:24:39 is added to graymalkin's clock.
+[11/20/17 23:41:37] bag [129/405] has challenged idlerpg [723/815] in combat and lost! 2 days, 19:50:29 is added to bag's clock.
+[11/21/17 00:15:00] Darkel [84/639] has challenged shrew [455/549] in combat and lost! 1 day, 06:34:37 is added to Darkel's clock.
+[11/21/17 01:15:28] bunu [330/559] has challenged Mex [291/542] in combat and won! 0 days, 00:22:09 is removed from bunu's clock.
+[11/21/17 02:15:47] bunu [87/559] has challenged shrew [259/549] in combat and lost! 0 days, 00:06:09 is added to bunu's clock.
+[11/21/17 03:11:24] catboy [270/815] has come upon Andee [201/503] and taken them in combat! 1 day, 18:08:30 is removed from catboy's clock.
+[11/21/17 03:15:57] bunu [311/559] has challenged ayleid [437/895] in combat and lost! 0 days, 00:02:42 is added to bunu's clock.
+[11/21/17 03:52:31] bunu [352/564] has challenged graymalkin [21/553] in combat and won! 3 days, 09:52:40 is removed from bunu's clock.
+[11/21/17 04:16:07] shrew [377/549] has challenged bag [326/405] in combat and won! 1 day, 21:17:08 is removed from shrew's clock.
+[11/21/17 05:16:16] graymalkin [521/553] has challenged ayleid [472/895] in combat and won! 0 days, 21:26:10 is removed from graymalkin's clock.
+[11/21/17 06:16:26] bunu [336/564] has challenged sigwinch [107/262] in combat and won! 1 day, 11:02:22 is removed from bunu's clock.
+[11/21/17 07:16:35] Andee [336/503] has challenged will [343/530] in combat and lost! 0 days, 23:53:14 is added to Andee's clock.
+[11/21/17 07:36:01] Darkel tamed a wild horse! This wondrous cowsend has accelerated them 2 days, 07:12:18 towards level 57.
+[11/21/17 08:04:30] sigwinch [172/262] has challenged catboy [334/815] in combat and lost! 0 days, 01:08:40 is added to sigwinch's clock.
+[11/21/17 08:10:03] Mex invented the wheel! This wondrous cowsend has accelerated them 2 days, 10:08:17 towards level 55.
+[11/21/17 08:16:43] bunu [467/564] has challenged shrew [108/549] in combat and won! 2 days, 12:15:28 is removed from bunu's clock.
+[11/21/17 08:18:26] graymalkin [152/553] has come upon bunu [265/564] and been defeated in combat! 0 days, 09:00:18 is added to graymalkin's clock.
+[11/21/17 08:57:28] Darkel's prudence and self-regard has brought the wrath of the Cow upon the realm. All your great wickedness makes you as it were heavy with lead, and to tend downwards with great weight and pressure towards hell. Therefore have you drawn yourselves 15 steps closer to that gaping maw.
+[11/21/17 09:16:52] GLaDOS [177/553] has challenged graymalkin [499/553] in combat and lost! 0 days, 08:27:43 is added to GLaDOS's clock.
+[11/21/17 10:16:59] will [136/530] has challenged GLaDOS [412/553] in combat and lost! 0 days, 20:37:21 is added to will's clock.
+[11/21/17 10:24:00] graymalkin was taught to run quickly by a secret tribe of pygmies that know how to, among other things, run quickly! This wondrous cowsend has accelerated them 0 days, 09:59:59 towards level 58.
+[11/21/17 11:17:07] graymalkin [79/553] has challenged Jake [21/579] in combat and won! 0 days, 15:50:11 is removed from graymalkin's clock.
+[11/21/17 12:17:18] will [412/530] has challenged GLaDOS [283/553] in combat and won! 1 day, 16:43:10 is removed from will's clock.
+[11/21/17 13:17:26] Mex [302/542] has challenged sigwinch [154/262] in combat and won! 1 day, 08:54:48 is removed from Mex's clock.
+[11/21/17 13:17:47] Andee found an exploit in the IRPG code! This wondrous cowsend has accelerated them 1 day, 19:46:05 towards level 56.
+[11/21/17 14:17:34] shrew [171/549] has challenged will [4/530] in combat and won! 1 day, 11:35:27 is removed from shrew's clock.
+[11/21/17 15:14:36] catboy [210/815] has come upon bunu [116/564] and taken them in combat! 1 day, 11:55:44 is removed from catboy's clock.
+[11/21/17 15:17:42] graymalkin [196/553] has challenged ayleid [811/895] in combat and lost! 0 days, 08:58:12 is added to graymalkin's clock.
+[11/21/17 16:17:52] Mex [99/542] has challenged bunu [153/564] in combat and lost! 1 day, 06:23:56 is added to Mex's clock.
+[11/21/17 17:18:01] ayleid [322/895] has challenged idlerpg [34/815] in combat and won! 0 days, 06:08:26 is removed from ayleid's clock.
+[11/21/17 18:18:08] will [450/530] has challenged GLaDOS [461/553] in combat and lost! 0 days, 18:39:16 is added to will's clock.
+[11/21/17 19:18:17] Mex [484/542] has challenged bunu [522/564] in combat and lost! 1 day, 08:18:59 is added to Mex's clock.
+[11/21/17 20:18:25] Andee [257/503] has challenged GLaDOS [40/553] in combat and won! 1 day, 16:48:51 is removed from Andee's clock.
+[11/21/17 21:18:35] bunu [314/564] has challenged catboy [179/815] in combat and won! 2 days, 07:25:08 is removed from bunu's clock.
+[11/21/17 22:18:45] ayleid [633/895] has challenged GLaDOS [198/553] in combat and won! 0 days, 02:32:29 is removed from ayleid's clock.
+[11/21/17 23:18:54] Andee [288/503] has challenged catboy [473/815] in combat and lost! 0 days, 21:36:38 is added to Andee's clock.
+[11/21/17 23:44:23] sigwinch [147/262] has challenged idlerpg [141/815] in combat and won! 0 days, 03:19:10 is removed from sigwinch's clock.
+[11/22/17 00:19:05] Mex [448/542] has challenged graymalkin [109/553] in combat and won! 2 days, 20:27:20 is removed from Mex's clock.
+[11/22/17 01:19:18] shrew [38/549] has challenged idlerpg [785/815] in combat and lost! 0 days, 22:42:56 is added to shrew's clock.
+[11/22/17 02:19:32] Andee [203/503] has challenged bunu [256/564] in combat and lost! 0 days, 20:12:40 is added to Andee's clock.
+[11/22/17 03:19:41] ayleid [229/895] has challenged Mex [502/542] in combat and lost! 0 days, 00:50:22 is added to ayleid's clock.
+[11/22/17 04:19:50] catboy [404/815] has challenged sigwinch [153/262] in combat and won! 0 days, 15:54:54 is removed from catboy's clock.
+[11/22/17 05:19:58] GLaDOS [273/553] has challenged graymalkin [231/553] in combat and won! 0 days, 13:11:09 is removed from GLaDOS's clock.
+[11/22/17 06:20:07] catboy [445/815] has challenged Andee [402/503] in combat and won! 1 day, 03:13:38 is removed from catboy's clock.
+[11/22/17 07:20:16] ayleid [21/895] has challenged Mex [328/542] in combat and lost! 0 days, 00:37:03 is added to ayleid's clock.
+[11/22/17 08:20:25] Andee [407/503] has challenged sigwinch [248/262] in combat and won! 0 days, 21:12:18 is removed from Andee's clock.
+[11/22/17 08:24:10] bunu, catboy, will, and Mex have completed their journey! 25% of their burden is eliminated.
+[11/22/17 09:20:32] Jake [408/579] has challenged idlerpg [213/815] in combat and won! 0 days, 19:39:50 is removed from Jake's clock.
+[11/22/17 10:20:40] shrew [109/549] has challenged graymalkin [406/553] in combat and lost! 0 days, 19:16:04 is added to shrew's clock.
+[11/22/17 11:20:47] GLaDOS [266/553] has challenged idlerpg [79/815] in combat and won! 0 days, 14:59:49 is removed from GLaDOS's clock.
+[11/22/17 12:20:54] Andee [295/503] has challenged sigwinch [88/262] in combat and won! 0 days, 19:26:24 is removed from Andee's clock.
+[11/22/17 13:01:06] sigwinch [246/262] has challenged shrew [7/549] in combat and won! 0 days, 02:30:10 is removed from sigwinch's clock.
+[11/22/17 13:21:02] GLaDOS [72/553] has challenged idlerpg [541/815] in combat and lost! 0 days, 05:47:54 is added to GLaDOS's clock.
+[11/22/17 14:21:11] shrew [125/549] has challenged graymalkin [483/553] in combat and lost! 0 days, 20:29:19 is added to shrew's clock.
+[11/22/17 14:44:12] sigwinch found an exploit in the IRPG code! This wondrous cowsend has accelerated them 0 days, 00:54:07 towards level 33.
+[11/22/17 14:55:04] ayleid bought a faster computer! This wondrous cowsend has accelerated them 0 days, 00:05:35 towards level 57.
+[11/22/17 15:21:20] GLaDOS [352/553] has challenged idlerpg [558/815] in combat and lost! 0 days, 06:10:40 is added to GLaDOS's clock.
+[11/22/17 16:21:30] Andee [454/503] has challenged GLaDOS [90/553] in combat and won! 1 day, 09:03:16 is removed from Andee's clock.
+[11/22/17 16:41:06] ayleid [404/895] has challenged will [449/530] in combat and lost! 2 days, 07:05:14 is added to ayleid's clock.
+[11/22/17 16:54:19] bunu and ayleid have not let the iniquities of evil men poison them. Together have they prayed to their Cow, and it is his milk that now rains upon them. 6% of their time is removed from their clocks.
+[11/22/17 17:21:39] shrew [453/549] has challenged catboy [699/815] in combat and lost! 0 days, 21:53:13 is added to shrew's clock.
+[11/22/17 18:21:48] bag [314/405] has challenged will [113/530] in combat and won! 3 days, 20:17:56 is removed from bag's clock.
+[11/22/17 19:21:56] ayleid [681/895] has challenged idlerpg [521/815] in combat and won! 6 days, 13:46:19 is removed from ayleid's clock.
+[11/22/17 20:22:06] Mex [273/542] has challenged shrew [415/549] in combat and lost! 0 days, 20:48:53 is added to Mex's clock.
+[11/22/17 21:22:16] Mex [168/542] has challenged bag [265/405] in combat and lost! 1 day, 01:22:24 is added to Mex's clock.
+[11/22/17 22:22:25] bunu [181/564] has challenged graymalkin [261/553] in combat and lost! 0 days, 17:29:52 is added to bunu's clock.
+[11/22/17 23:22:34] Jake [37/579] has challenged bag [26/405] in combat and won! 0 days, 09:02:49 is removed from Jake's clock.
+[11/23/17 00:22:45] shrew [464/549] has challenged Andee [162/503] in combat and won! 1 day, 13:29:58 is removed from shrew's clock.
+[11/23/17 01:22:58] graymalkin [99/553] has challenged catboy [435/815] in combat and lost! 0 days, 06:57:38 is added to graymalkin's clock.
+[11/23/17 02:23:10] GLaDOS [179/553] has challenged bag [31/405] in combat and won! 0 days, 07:58:10 is removed from GLaDOS's clock.
+[11/23/17 03:23:19] Andee [345/503] has challenged graymalkin [63/553] in combat and won! 1 day, 05:25:31 is removed from Andee's clock.
+[11/23/17 04:23:29] bag [203/405] has challenged idlerpg [131/815] in combat and won! 5 days, 01:31:59 is removed from bag's clock.
+[11/23/17 04:52:00] sigwinch [139/281] has challenged bag [85/405] in combat and won! 0 days, 03:07:36 is removed from sigwinch's clock.
+[11/23/17 05:23:38] bag [159/405] has challenged sigwinch [269/281] in combat and lost! 1 day, 09:57:32 is added to bag's clock.
+[11/23/17 06:23:47] ayleid [285/895] has challenged Andee [113/503] in combat and won! 3 days, 08:36:26 is removed from ayleid's clock.
+[11/23/17 07:12:14] shrew misplaced his map. This terrible calamity has slowed them 0 days, 21:58:19 from level 56.
+[11/23/17 07:23:55] will [19/530] has challenged idlerpg [448/815] in combat and lost! 0 days, 18:01:44 is added to will's clock.
+[11/23/17 08:11:42] bunu, catboy, will, and Mex have completed their journey! 25% of their burden is eliminated.
+[11/23/17 08:24:05] graymalkin [117/553] has challenged Andee [203/503] in combat and lost! 0 days, 06:05:11 is added to graymalkin's clock.
+[11/23/17 09:24:14] bag [358/405] has challenged sigwinch [108/281] in combat and won! 1 day, 17:12:22 is removed from bag's clock.
+[11/23/17 10:24:23] Mex [461/542] has challenged Jake [513/579] in combat and lost! 0 days, 17:15:37 is added to Mex's clock.
+[11/23/17 11:24:33] GLaDOS [125/553] has challenged bag [213/405] in combat and lost! 0 days, 03:11:40 is added to GLaDOS's clock.
+[11/23/17 12:24:42] Mex [146/542] has challenged Andee [420/503] in combat and lost! 0 days, 18:19:41 is added to Mex's clock.
+[11/23/17 13:14:48] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried will 1 day, 13:12:12 toward level 56.
+[11/23/17 13:24:50] catboy [473/815] has challenged Mex [541/542] in combat and lost! 0 days, 05:28:43 is added to catboy's clock.
+[11/23/17 14:24:59] bag [213/405] has challenged will [203/530] in combat and won! 2 days, 12:57:06 is removed from bag's clock.
+[11/23/17 15:25:08] shrew [369/549] has challenged idlerpg [116/815] in combat and won! 2 days, 03:34:41 is removed from shrew's clock.
+[11/23/17 16:25:17] will [308/530] has challenged sigwinch [14/281] in combat and won! 0 days, 08:13:01 is removed from will's clock.
+[11/23/17 17:25:28] Mex [35/542] has challenged ayleid [310/895] in combat and lost! 0 days, 22:00:42 is added to Mex's clock.
+[11/23/17 18:25:37] bag [152/405] has challenged bunu [190/564] in combat and lost! 1 day, 04:16:22 is added to bag's clock.
+[11/23/17 19:25:47] catboy [61/815] has challenged GLaDOS [416/553] in combat and lost! 0 days, 05:26:28 is added to catboy's clock.
+[11/23/17 20:25:56] bag [186/405] has challenged GLaDOS [42/553] in combat and won! 2 days, 07:55:17 is removed from bag's clock.
+[11/23/17 21:26:11] Andee [125/503] has challenged ayleid [30/895] in combat and won! 0 days, 22:46:45 is removed from Andee's clock.
+[11/23/17 22:26:21] ayleid [266/895] has challenged idlerpg [32/815] in combat and won! 4 days, 08:40:53 is removed from ayleid's clock.
+[11/23/17 23:26:30] graymalkin [167/553] has challenged idlerpg [404/815] in combat and lost! 0 days, 07:47:58 is added to graymalkin's clock.
+[11/24/17 00:04:27] sigwinch [55/281] has challenged will [395/530] in combat and lost! 0 days, 01:48:48 is added to sigwinch's clock.
+[11/24/17 00:26:45] Andee [438/503] has challenged idlerpg [342/815] in combat and won! 1 day, 03:23:02 is removed from Andee's clock.
+[11/24/17 01:27:10] ayleid [175/895] has challenged bunu [403/564] in combat and lost! 1 day, 05:05:59 is added to ayleid's clock.
+[11/24/17 02:27:20] Mex [484/542] has challenged graymalkin [401/553] in combat and won! 1 day, 16:20:15 is removed from Mex's clock.
+[11/24/17 03:27:30] graymalkin [100/553] has challenged catboy [257/815] in combat and lost! 0 days, 06:32:32 is added to graymalkin's clock.
+[11/24/17 04:27:40] Andee [220/503] has challenged will [484/530] in combat and lost! 0 days, 07:23:11 is added to Andee's clock.
+[11/24/17 05:27:48] graymalkin [102/553] has challenged ayleid [766/895] in combat and lost! 0 days, 06:54:18 is added to graymalkin's clock.
+[11/24/17 06:27:58] ayleid [620/895] has challenged sigwinch [100/281] in combat and won! 1 day, 11:11:02 is removed from ayleid's clock.
+[11/24/17 07:28:06] bunu [217/564] has challenged Andee [121/503] in combat and won! 0 days, 19:02:54 is removed from bunu's clock.
+[11/24/17 08:28:17] will [422/530] has challenged Mex [4/542] in combat and won! 0 days, 10:11:52 is removed from will's clock.
+[11/24/17 09:28:27] GLaDOS [519/553] has challenged Mex [33/542] in combat and won! 0 days, 02:44:17 is removed from GLaDOS's clock.
+[11/24/17 10:28:35] ayleid [641/895] has challenged graymalkin [244/553] in combat and won! 2 days, 08:05:04 is removed from ayleid's clock.
+[11/24/17 11:28:45] catboy [668/815] has challenged bag [103/405] in combat and won! 0 days, 09:23:50 is removed from catboy's clock.
+[11/24/17 12:28:54] bunu [367/564] has challenged ayleid [674/895] in combat and lost! 0 days, 09:47:49 is added to bunu's clock.
+[11/24/17 13:03:08] bunu, graymalkin, ayleid, and Jake have blessed the realm by completing their quest! 25% of their burden is eliminated.
+[11/24/17 13:24:01] shrew [62/549] has come upon catboy [323/815] and been defeated in combat! 0 days, 14:44:47 is added to shrew's clock.
+[11/24/17 13:29:02] bag [342/405] has challenged Jake [305/579] in combat and won! 1 day, 20:45:00 is removed from bag's clock.
+[11/24/17 14:14:50] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried bag 3 days, 16:23:58 toward level 57.
+[11/24/17 14:29:10] bag [385/405] has challenged will [7/530] in combat and won! 1 day, 07:02:23 is removed from bag's clock.
+[11/24/17 15:29:19] graymalkin [106/553] has challenged bunu [0/564] in combat and won! 0 days, 08:01:56 is removed from graymalkin's clock.
+[11/24/17 15:51:41] ayleid ate a poisonous fruit. This terrible calamity has slowed them 0 days, 17:45:19 from level 58.
+[11/24/17 16:29:27] GLaDOS [269/553] has challenged ayleid [418/895] in combat and lost! 0 days, 00:54:16 is added to GLaDOS's clock.
+[11/24/17 17:29:36] shrew [206/549] has challenged sigwinch [231/281] in combat and lost! 0 days, 13:38:56 is added to shrew's clock.
+[11/24/17 18:29:44] GLaDOS [146/553] has challenged sigwinch [147/281] in combat and lost! 0 days, 00:42:52 is added to GLaDOS's clock.
+[11/24/17 19:29:53] Mex [495/542] has challenged idlerpg [144/815] in combat and won! 1 day, 22:08:57 is removed from Mex's clock.
+[11/24/17 20:30:03] bunu [411/564] has challenged ayleid [481/895] in combat and lost! 0 days, 07:18:19 is added to bunu's clock.
+[11/24/17 21:30:12] ayleid [105/895] has challenged GLaDOS [490/553] in combat and lost! 0 days, 18:36:12 is added to ayleid's clock.
+[11/24/17 22:30:21] Andee [205/503] has challenged idlerpg [735/815] in combat and lost! 0 days, 09:29:10 is added to Andee's clock.
+[11/24/17 23:30:29] bunu [60/564] has challenged graymalkin [318/553] in combat and lost! 0 days, 07:38:57 is added to bunu's clock.
+[11/25/17 00:30:38] catboy [550/815] has challenged bag [348/405] in combat and won! 0 days, 06:15:26 is removed from catboy's clock.
+[11/25/17 00:33:24] Jake bribed the local IRPG administrator! This wondrous cowsend has accelerated them 0 days, 00:11:31 towards level 52.
+[11/25/17 01:30:48] Mex [56/542] has challenged Jake [391/579] in combat and lost! 0 days, 12:30:02 is added to Mex's clock.
+[11/25/17 02:17:04] Jake [572/579] has challenged will [270/530] in combat and won! 2 days, 00:42:31 is removed from Jake's clock.
+[11/25/17 02:30:57] Andee [257/503] has challenged Jake [535/579] in combat and lost! 0 days, 07:01:25 is added to Andee's clock.
+[11/25/17 03:31:07] ayleid [304/895] has challenged bag [373/405] in combat and lost! 0 days, 22:16:04 is added to ayleid's clock.
+[11/25/17 03:47:41] sigwinch [46/281] has challenged Andee [247/503] in combat and lost! 0 days, 02:06:13 is added to sigwinch's clock.
+[11/25/17 04:31:18] graymalkin [38/553] has challenged catboy [246/815] in combat and lost! 0 days, 03:15:27 is added to graymalkin's clock.
+[11/25/17 05:23:53] GLaDOS was attacked by a rabid cow. This terrible calamity has slowed them 0 days, 00:00:04 from level 55.
+[11/25/17 05:25:05] GLaDOS [18/555] has challenged Jake [16/579] in combat and won! 3 days, 04:01:45 is removed from GLaDOS's clock.
+[11/25/17 05:31:27] GLaDOS [407/555] has challenged Andee [298/503] in combat and won! 2 days, 18:07:54 is removed from GLaDOS's clock.
+[11/25/17 06:31:37] graymalkin [224/553] has challenged will [230/530] in combat and lost! 0 days, 02:56:17 is added to graymalkin's clock.
+[11/25/17 06:41:51] graymalkin grew an extra leg! This wondrous cowsend has accelerated them 0 days, 03:34:45 towards level 58.
+[11/25/17 07:31:46] bag [361/405] has challenged idlerpg [578/815] in combat and lost! 0 days, 19:04:06 is added to bag's clock.
+[11/25/17 08:31:56] catboy [270/815] has challenged Mex [124/542] in combat and won! 0 days, 03:57:14 is removed from catboy's clock.
+[11/25/17 09:32:05] graymalkin [79/553] has challenged shrew [371/549] in combat and lost! 0 days, 02:40:57 is added to graymalkin's clock.
+[11/25/17 10:32:14] bag [78/405] has challenged sigwinch [54/281] in combat and won! 0 days, 16:32:22 is removed from bag's clock.
+[11/25/17 11:32:23] bag [251/405] has challenged ayleid [750/895] in combat and lost! 0 days, 15:08:10 is added to bag's clock.
+[11/25/17 12:32:34] Andee [153/503] has challenged ayleid [682/895] in combat and lost! 0 days, 07:47:12 is added to Andee's clock.
+[11/25/17 13:27:42] ayleid, catboy, will, and GLaDOS have completed their journey! 25% of their burden is eliminated.
+[11/25/17 13:30:13] catboy [699/815] has come upon ayleid [816/895] and been defeated in combat! 0 days, 01:17:18 is added to catboy's clock.
+[11/25/17 13:32:43] Andee [80/503] has challenged graymalkin [158/553] in combat and lost! 0 days, 08:19:46 is added to Andee's clock.
+[11/25/17 14:32:50] Andee [365/503] has challenged ayleid [511/895] in combat and lost! 0 days, 08:54:56 is added to Andee's clock.
+[11/25/17 14:39:10] ayleid stopped using dial-up! This wondrous cowsend has accelerated them 0 days, 17:20:42 towards level 58.
+[11/25/17 15:32:59] catboy [30/815] has challenged Mex [521/542] in combat and lost! 0 days, 01:04:28 is added to catboy's clock.
+[11/25/17 15:34:02] bag [385/405] has come upon shrew [181/549] and taken them in combat! 1 day, 02:02:25 is removed from bag's clock.
+[11/25/17 16:33:06] GLaDOS [36/555] has challenged Jake [11/579] in combat and won! 1 day, 17:58:31 is removed from GLaDOS's clock.
+[11/25/17 17:33:14] graymalkin [85/553] has challenged Jake [166/579] in combat and lost! 0 days, 02:18:33 is added to graymalkin's clock.
+[11/25/17 18:33:22] Jake [534/579] has challenged shrew [304/549] in combat and won! 1 day, 16:15:41 is removed from Jake's clock.
+[11/25/17 19:33:30] Jake [148/579] has challenged will [156/530] in combat and lost! 0 days, 18:47:26 is added to Jake's clock.
+[11/25/17 20:33:40] Mex [515/542] has challenged catboy [97/815] in combat and won! 1 day, 00:05:05 is removed from Mex's clock.
+[11/25/17 21:33:49] shrew [475/549] has challenged graymalkin [43/553] in combat and won! 1 day, 01:16:43 is removed from shrew's clock.
+[11/25/17 21:43:24] Andee had his clothes laundered by a passing fairy! This wondrous cowsend has accelerated them 0 days, 07:55:23 towards level 56.
+[11/25/17 22:34:01] shrew [311/549] has challenged catboy [130/815] in combat and won! 0 days, 21:35:57 is removed from shrew's clock.
+[11/25/17 23:05:03] Jake was visited by a very pretty nymph! This wondrous cowsend has accelerated them 1 day, 01:32:00 towards level 53.
+[11/25/17 23:34:11] GLaDOS [469/555] has challenged graymalkin [356/553] in combat and won! 1 day, 14:20:43 is removed from GLaDOS's clock.
+[11/26/17 00:34:19] ayleid [825/895] has challenged will [216/530] in combat and won! 1 day, 00:38:29 is removed from ayleid's clock.
+[11/26/17 01:06:27] bag [116/405] has come upon Andee [475/503] and been defeated in combat! 0 days, 11:31:53 is added to bag's clock.
+[11/26/17 01:34:56] Mex [136/542] has challenged ayleid [821/895] in combat and lost! 0 days, 11:26:03 is added to Mex's clock.
+[11/26/17 02:15:23] Mex tamed a wild horse! This wondrous cowsend has accelerated them 0 days, 10:45:29 towards level 55.
+[11/26/17 02:35:05] catboy [691/815] has challenged will [60/530] in combat and won! 0 days, 00:42:02 is removed from catboy's clock.
+[11/26/17 03:35:13] catboy [579/815] has challenged ayleid [568/895] in combat and won! 0 days, 00:30:57 is removed from catboy's clock.
+[11/26/17 04:35:22] ayleid [84/895] has challenged bag [146/405] in combat and lost! 0 days, 12:52:16 is added to ayleid's clock.
+[11/26/17 05:07:12] catboy grew an extra leg! This wondrous cowsend has accelerated them 0 days, 00:09:49 towards level 57.
+[11/26/17 05:35:31] Jake [305/579] has challenged Mex [45/542] in combat and won! 1 day, 08:42:58 is removed from Jake's clock.
+[11/26/17 05:53:19] ayleid bit their tongue. This terrible calamity has slowed them 0 days, 15:31:18 from level 58.
+[11/26/17 06:35:35] catboy [528/815] has challenged ayleid [532/895] in combat and lost! 2 days, 14:57:25 is added to catboy's clock.
+[11/26/17 06:35:41] GLaDOS [209/555] has challenged bag [378/405] in combat and lost! 0 days, 18:16:55 is added to GLaDOS's clock.
+[11/26/17 07:35:51] ayleid [702/895] has challenged will [114/530] in combat and won! 1 day, 00:12:57 is removed from ayleid's clock.
+[11/26/17 08:31:26] bunu, ayleid, catboy, and GLaDOS have completed their journey! 25% of their burden is eliminated.
+[11/26/17 08:36:00] Mex [314/542] has challenged ayleid [523/895] in combat and lost! 0 days, 10:55:37 is added to Mex's clock.
+[11/26/17 09:36:07] bag [352/405] has challenged sigwinch [96/281] in combat and won! 0 days, 13:25:17 is removed from bag's clock.
+[11/26/17 10:36:16] will [158/530] has challenged idlerpg [429/815] in combat and lost! 0 days, 00:49:47 is added to will's clock.
+[11/26/17 11:36:24] Jake [360/579] has challenged idlerpg [387/815] in combat and lost! 0 days, 21:17:35 is added to Jake's clock.
+[11/26/17 11:39:37] Andee was bucked from a horse. This terrible calamity has slowed them 0 days, 09:07:57 from level 56.
+[11/26/17 11:57:03] sigwinch [254/303] has challenged Mex [162/542] in combat and won! 0 days, 04:31:54 is removed from sigwinch's clock.
+[11/26/17 12:16:28] GLaDOS [476/555] has come upon bunu [181/564] and taken them in combat! 0 days, 23:23:16 is removed from GLaDOS's clock.
+[11/26/17 12:36:33] graymalkin [98/553] has challenged Mex [192/542] in combat and lost! 0 days, 01:08:13 is added to graymalkin's clock.
+[11/26/17 13:36:42] Jake [355/579] has challenged Andee [76/503] in combat and won! 1 day, 06:11:19 is removed from Jake's clock.
+[11/26/17 14:31:31] graymalkin died, temporarily... This terrible calamity has slowed them 0 days, 01:32:46 from level 58.
+[11/26/17 14:36:50] bag [200/405] has challenged idlerpg [246/815] in combat and lost! 0 days, 14:56:00 is added to bag's clock.
+[11/26/17 15:36:59] GLaDOS [300/555] has challenged will [8/530] in combat and won! 0 days, 19:54:47 is removed from GLaDOS's clock.
+[11/26/17 15:36:59] In the fierce battle, will dropped their level 107 amulet! GLaDOS picks it up, tossing their old level 51 amulet to will.
+[11/26/17 16:09:59] bag found a one-time-use spell of quickness! This wondrous cowsend has accelerated them 0 days, 14:38:39 towards level 57.
+[11/26/17 16:37:08] will [446/474] has challenged shrew [202/549] in combat and won! 0 days, 00:24:17 is removed from will's clock.
+[11/26/17 16:37:08] In the fierce battle, shrew dropped their level 67 helm! will picks it up, tossing their old level 57 helm to shrew.
+[11/26/17 17:37:19] Jake [223/579] has challenged bunu [4/564] in combat and won! 1 day, 01:44:34 is removed from Jake's clock.
+[11/26/17 18:37:27] Jake [147/579] has challenged Andee [100/503] in combat and won! 0 days, 22:15:57 is removed from Jake's clock.
+[11/26/17 19:19:42] will [59/494] has challenged Andee [109/503] in combat and lost! 1 day, 23:29:20 is added to will's clock.
+[11/26/17 19:37:36] bunu [480/564] has challenged sigwinch [257/303] in combat and won! 0 days, 03:44:33 is removed from bunu's clock.
+[11/26/17 20:37:44] ayleid [278/895] has challenged catboy [493/815] in combat and lost! 0 days, 08:41:58 is added to ayleid's clock.
+[11/26/17 21:37:53] Mex [499/542] has challenged graymalkin [225/553] in combat and won! 0 days, 18:49:39 is removed from Mex's clock.
+[11/26/17 22:38:02] bag [325/405] has challenged bunu [161/564] in combat and won! 0 days, 18:24:30 is removed from bag's clock.
+[11/26/17 23:38:11] Jake [159/579] has challenged Andee [445/503] in combat and lost! 0 days, 10:04:47 is added to Jake's clock.
+[11/27/17 00:16:24] catboy set themself on fire. This terrible calamity has slowed them 2 days, 14:01:27 from level 58.
+[11/27/17 00:18:37] ayleid gained a sixth sense! This wondrous cowsend has accelerated them 0 days, 10:14:19 towards level 58.
+[11/27/17 00:38:21] Mex [324/542] has challenged bunu [528/564] in combat and lost! 0 days, 07:53:07 is added to Mex's clock.
+[11/27/17 01:38:46] graymalkin [443/553] has challenged sigwinch [10/303] in combat and won! 0 days, 00:31:47 is removed from graymalkin's clock.
+[11/27/17 02:38:56] ayleid [737/895] has challenged GLaDOS [17/611] in combat and won! 0 days, 13:09:15 is removed from ayleid's clock.
+[11/27/17 03:39:06] catboy [521/815] has challenged will [405/494] in combat and won! 3 days, 23:02:39 is removed from catboy's clock.
+[11/27/17 04:39:15] Andee [450/503] has challenged shrew [470/540] in combat and lost! 0 days, 05:50:33 is added to Andee's clock.
+[11/27/17 05:39:24] will [449/494] has challenged sigwinch [34/303] in combat and won! 2 days, 16:24:07 is removed from will's clock.
+[11/27/17 05:39:24] will has dealt sigwinch a Critical Strike! 0 days, 02:46:38 is added to sigwinch's clock.
+[11/27/17 06:39:33] shrew [290/540] has challenged Andee [147/503] in combat and won! 0 days, 13:04:35 is removed from shrew's clock.
+[11/27/17 07:00:14] graymalkin [176/553] has challenged shrew [424/540] in combat and lost! 2 days, 15:54:04 is added to graymalkin's clock.
+[11/27/17 07:39:43] bag [191/405] has challenged GLaDOS [415/611] in combat and lost! 0 days, 07:59:30 is added to bag's clock.
+[11/27/17 08:12:36] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried bunu 0 days, 13:38:23 toward level 56.
+[11/27/17 08:21:13] Andee and bag have not let the iniquities of evil men poison them. Together have they prayed to their Cow, and it is his milk that now rains upon them. 12% of their time is removed from their clocks.
+[11/27/17 08:39:51] will [441/494] has challenged catboy [502/815] in combat and lost! 2 days, 03:51:12 is added to will's clock.
+[11/27/17 09:40:00] catboy [170/815] has challenged Jake [459/579] in combat and lost! 1 day, 16:26:52 is added to catboy's clock.
+[11/27/17 10:04:52] bunu gained a sixth sense! This wondrous cowsend has accelerated them 0 days, 01:10:11 towards level 56.
+[11/27/17 10:24:24] bag discovered a secret, underground passage! This wondrous cowsend has accelerated them 0 days, 12:34:50 towards level 57.
+[11/27/17 10:40:09] graymalkin [192/553] has challenged Jake [8/579] in combat and won! 5 days, 06:30:17 is removed from graymalkin's clock.
+[11/27/17 11:21:33] sigwinch [223/303] has come upon will [100/494] and taken them in combat! 0 days, 01:21:28 is removed from sigwinch's clock.
+[11/27/17 11:40:17] Jake [491/579] has challenged graymalkin [344/553] in combat and won! 0 days, 19:53:09 is removed from Jake's clock.
+[11/27/17 12:12:07] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried GLaDOS 2 days, 07:12:46 toward level 56.
+[11/27/17 12:40:27] graymalkin [182/553] has challenged idlerpg [470/815] in combat and lost! 3 days, 12:27:37 is added to graymalkin's clock.
+[11/27/17 13:00:02] bunu, catboy, bag, and will have blessed the realm by completing their quest! 25% of their burden is eliminated.
+[11/27/17 13:40:34] graymalkin [170/553] has challenged GLaDOS [473/611] in combat and lost! 2 days, 16:57:51 is added to graymalkin's clock.
+[11/27/17 13:55:42] will [148/494] has come upon shrew [226/540] and been defeated in combat! 1 day, 12:27:30 is added to will's clock.
+[11/27/17 13:57:18] Mex was visited by a very pretty nymph! This wondrous cowsend has accelerated them 0 days, 10:43:18 towards level 55.
+[11/27/17 14:40:42] bag [216/405] has challenged Mex [259/542] in combat and lost! 0 days, 04:35:23 is added to bag's clock.
+[11/27/17 15:40:50] graymalkin [170/553] has challenged catboy [295/815] in combat and lost! 3 days, 07:16:54 is added to graymalkin's clock.
+[11/27/17 16:40:58] bag [393/405] has challenged Andee [12/503] in combat and won! 0 days, 08:51:36 is removed from bag's clock.
+[11/27/17 17:14:39] bunu [440/564] has challenged Jake [495/579] in combat and lost! 1 day, 23:29:20 is added to bunu's clock.
+[11/27/17 17:41:07] shrew [41/540] has challenged Jake [220/579] in combat and lost! 0 days, 05:21:14 is added to shrew's clock.
+[11/27/17 18:41:14] shrew [537/540] has challenged bunu [203/564] in combat and won! 0 days, 11:19:02 is removed from shrew's clock.
+[11/27/17 18:41:14] In the fierce battle, bunu dropped their level 55 ring! shrew picks it up, tossing their old level 48 ring to bunu.
+[11/27/17 19:41:23] will [337/494] has challenged graymalkin [111/553] in combat and won! 3 days, 05:12:52 is removed from will's clock.
+[11/27/17 19:41:59] sigwinch [235/303] has challenged idlerpg [231/815] in combat and won! 0 days, 08:05:15 is removed from sigwinch's clock.
+[11/27/17 20:41:32] Mex [354/542] has challenged graymalkin [230/553] in combat and won! 0 days, 12:33:58 is removed from Mex's clock.
+[11/27/17 21:41:41] Jake [558/579] has challenged bunu [447/556] in combat and won! 0 days, 15:41:55 is removed from Jake's clock.
+[11/27/17 22:41:50] Jake [298/579] has challenged graymalkin [550/553] in combat and lost! 0 days, 07:38:04 is added to Jake's clock.
+[11/27/17 23:42:01] Jake [55/579] has challenged catboy [599/815] in combat and lost! 0 days, 08:09:54 is added to Jake's clock.
+[11/28/17 00:42:10] shrew [288/547] has challenged will [293/494] in combat and lost! 0 days, 05:04:49 is added to shrew's clock.
+[11/28/17 01:42:31] shrew [51/547] has challenged ayleid [852/895] in combat and lost! 0 days, 05:24:23 is added to shrew's clock.
+[11/28/17 02:42:40] shrew [522/547] has challenged ayleid [505/895] in combat and won! 0 days, 10:04:40 is removed from shrew's clock.
+[11/28/17 03:42:49] Jake [567/579] has challenged sigwinch [248/303] in combat and won! 0 days, 09:33:34 is removed from Jake's clock.
+[11/28/17 04:42:57] catboy [659/815] has challenged will [252/494] in combat and won! 2 days, 14:22:07 is removed from catboy's clock.
+[11/28/17 05:43:06] Mex [60/542] has challenged bunu [236/556] in combat and lost! 0 days, 05:27:11 is added to Mex's clock.
+[11/28/17 06:43:16] will [449/494] has challenged Andee [69/503] in combat and won! 2 days, 12:13:38 is removed from will's clock.
+[11/28/17 07:38:53] Mex misplaced his map. This terrible calamity has slowed them 0 days, 08:36:09 from level 55.
+[11/28/17 07:43:26] will [196/494] has challenged GLaDOS [412/611] in combat and lost! 1 day, 04:08:38 is added to will's clock.
+[11/28/17 08:43:35] Andee [87/503] has challenged sigwinch [10/303] in combat and won! 0 days, 04:35:11 is removed from Andee's clock.
+[11/28/17 09:43:45] Mex [238/542] has challenged bunu [420/556] in combat and lost! 0 days, 06:15:24 is added to Mex's clock.
+[11/28/17 10:36:47] graymalkin, shrew, bag, and GLaDOS have completed their journey! 25% of their burden is eliminated.
+[11/28/17 10:43:54] graymalkin [1/553] has challenged Jake [478/579] in combat and lost! 2 days, 07:11:19 is added to graymalkin's clock.
+[11/28/17 11:44:04] graymalkin [141/553] has challenged Mex [446/542] in combat and lost! 2 days, 10:58:54 is added to graymalkin's clock.
+[11/28/17 12:44:12] Mex [21/542] has challenged idlerpg [614/815] in combat and lost! 0 days, 08:08:45 is added to Mex's clock.
+[11/28/17 13:44:19] Jake [122/579] has challenged catboy [719/815] in combat and lost! 0 days, 06:55:50 is added to Jake's clock.
+[11/28/17 14:44:27] bunu [465/556] has challenged catboy [281/815] in combat and won! 4 days, 02:37:02 is removed from bunu's clock.
+[11/28/17 14:59:53] will [371/494] has come upon bunu [421/556] and been defeated in combat! 1 day, 09:50:02 is added to will's clock.
+[11/28/17 15:44:34] Jake [214/579] has challenged GLaDOS [342/611] in combat and lost! 0 days, 06:24:32 is added to Jake's clock.
+[11/28/17 16:44:42] shrew [230/547] has challenged graymalkin [36/553] in combat and won! 0 days, 04:48:43 is removed from shrew's clock.
+[11/28/17 16:44:42] In the fierce battle, graymalkin dropped their level 62 ring! shrew picks it up, tossing their old level 55 ring to graymalkin.
+[11/28/17 17:39:41] Mex [540/542] has come upon GLaDOS [566/611] and been defeated in combat! 0 days, 05:55:39 is added to Mex's clock.
+[11/28/17 17:44:51] Mex [536/542] has challenged bunu [65/556] in combat and won! 0 days, 12:40:23 is removed from Mex's clock.
+[11/28/17 18:45:00] GLaDOS [364/611] has challenged bag [250/405] in combat and won! 0 days, 02:32:29 is removed from GLaDOS's clock.
+[11/28/17 18:57:25] ayleid was bitten by a radioactive spider! This wondrous cowsend has accelerated them 0 days, 05:43:36 towards level 58.
+[11/28/17 19:45:08] bag [336/405] has challenged catboy [766/815] in combat and lost! 0 days, 01:45:02 is added to bag's clock.
+[11/28/17 19:50:33] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried bunu 18 days, 00:29:48 toward level 57.
+[11/28/17 20:22:25] bag [28/405] has come upon bunu [324/556] and been defeated in combat! 0 days, 01:50:27 is added to bag's clock.
+[11/28/17 20:45:19] bag [165/405] has challenged will [304/494] in combat and lost! 0 days, 01:57:28 is added to bag's clock.
+[11/28/17 20:59:05] bag [343/405] has come upon bunu [100/556] and taken them in combat! 0 days, 03:40:05 is removed from bag's clock.
+[11/28/17 21:45:26] will [396/494] has challenged bunu [202/556] in combat and won! 2 days, 15:00:00 is removed from will's clock.
+[11/28/17 22:34:22] Mex, bunu, and catboy [1553/1913] have team battled bag, Jake, and ayleid [1317/1879] and won! 0 days, 14:36:17 is removed from their clocks.
+[11/28/17 22:45:35] shrew [62/553] has challenged Jake [523/579] in combat and lost! 0 days, 01:38:53 is added to shrew's clock.
+[11/28/17 23:45:45] catboy [769/815] has challenged shrew [127/553] in combat and won! 1 day, 22:53:30 is removed from catboy's clock.
+[11/29/17 00:45:53] Andee [414/503] has challenged GLaDOS [348/611] in combat and won! 0 days, 03:56:38 is removed from Andee's clock.
+[11/29/17 01:10:16] shrew is forsaken by their evil Cowgod. 0 days, 00:41:00 is added to their clock.
+[11/29/17 01:18:06] Mex ate a poisonous fruit. This terrible calamity has slowed them 0 days, 02:47:04 from level 55.
+[11/29/17 01:46:05] graymalkin [312/545] has challenged bunu [158/556] in combat and won! 5 days, 04:15:21 is removed from graymalkin's clock.
+[11/29/17 02:46:14] bunu [359/556] has challenged idlerpg [148/815] in combat and won! 1 day, 05:19:55 is removed from bunu's clock.
+[11/29/17 03:46:23] bag [384/405] has challenged will [386/494] in combat and lost! 0 days, 01:15:34 is added to bag's clock.
+[11/29/17 04:14:55] bag got turned INSIDE OUT, practically. This terrible calamity has slowed them 0 days, 01:09:25 from level 57.
+[11/29/17 04:31:18] Andee, ayleid, Jake, and will have completed their journey! 25% of their burden is eliminated.
+[11/29/17 04:46:32] shrew [199/553] has challenged sigwinch [25/303] in combat and won! 0 days, 01:47:14 is removed from shrew's clock.
+[11/29/17 05:46:40] Mex [240/542] has challenged idlerpg [312/815] in combat and lost! 0 days, 05:23:59 is added to Mex's clock.
+[11/29/17 06:46:49] will [337/494] has challenged Andee [178/503] in combat and won! 1 day, 12:46:46 is removed from will's clock.
+[11/29/17 07:47:00] Jake [215/579] has challenged shrew [146/553] in combat and won! 0 days, 07:52:54 is removed from Jake's clock.
+[11/29/17 08:47:07] Andee [269/503] has challenged graymalkin [335/545] in combat and lost! 0 days, 01:01:01 is added to Andee's clock.
+[11/29/17 08:56:18] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried GLaDOS 0 days, 00:43:35 toward level 56.
+[11/29/17 09:38:11] GLaDOS [245/611] has challenged bunu [492/556] in combat and lost! 2 days, 06:16:23 is added to GLaDOS's clock.
+[11/29/17 09:47:16] GLaDOS [58/611] has challenged bag [314/405] in combat and lost! 2 days, 10:36:11 is added to GLaDOS's clock.
+[11/29/17 10:47:26] will [61/494] has challenged GLaDOS [213/611] in combat and lost! 0 days, 19:22:13 is added to will's clock.
+[11/29/17 11:47:37] Mex [240/542] has challenged Andee [305/503] in combat and lost! 0 days, 03:44:12 is added to Mex's clock.
+[11/29/17 12:47:46] GLaDOS [412/611] has challenged will [36/494] in combat and won! 4 days, 14:20:19 is removed from GLaDOS's clock.
+[11/29/17 13:47:56] bunu [228/556] has challenged catboy [761/815] in combat and lost! 0 days, 08:30:14 is added to bunu's clock.
+[11/29/17 14:48:05] Mex [18/542] has challenged graymalkin [117/545] in combat and lost! 0 days, 04:19:44 is added to Mex's clock.
+[11/29/17 15:48:21] GLaDOS [52/611] has challenged bag [325/405] in combat and lost! 2 days, 05:58:58 is added to GLaDOS's clock.
+[11/29/17 16:04:48] sigwinch [43/303] has challenged graymalkin [171/545] in combat and lost! 0 days, 03:45:09 is added to sigwinch's clock.
+[11/29/17 16:27:18] sigwinch found a one-time-use spell of quickness! This wondrous cowsend has accelerated them 0 days, 03:31:12 towards level 39.
+[11/29/17 16:48:30] ayleid [304/895] has challenged GLaDOS [588/611] in combat and lost! 0 days, 00:57:46 is added to ayleid's clock.
+[11/29/17 17:48:40] Jake [260/579] has challenged ayleid [102/895] in combat and won! 0 days, 05:58:50 is removed from Jake's clock.
+[11/29/17 18:14:34] bunu and graymalkin have not let the iniquities of evil men poison them. Together have they prayed to their Cow, and it is his milk that now rains upon them. 9% of their time is removed from their clocks.
+[11/29/17 18:48:47] bag [317/405] has challenged Mex [100/542] in combat and won! 0 days, 00:24:20 is removed from bag's clock.
+[11/29/17 19:49:00] ayleid [558/895] has challenged Andee [233/503] in combat and won! 0 days, 01:17:56 is removed from ayleid's clock.
+[11/29/17 20:49:09] ayleid [299/895] has challenged GLaDOS [5/611] in combat and won! 0 days, 01:04:36 is removed from ayleid's clock.
+[11/29/17 21:31:39] bag [251/427] has challenged will [70/494] in combat and won! 4 days, 14:10:29 is removed from bag's clock.
+[11/29/17 21:31:39] In the fierce battle, will dropped their level 51 amulet! bag picks it up, tossing their old level 50 amulet to will.
+[11/29/17 21:49:18] Jake [230/579] has challenged bag [92/429] in combat and won! 0 days, 04:34:55 is removed from Jake's clock.
+[11/29/17 22:30:55] Andee [178/513] has challenged ayleid [249/895] in combat and lost! 2 days, 06:16:23 is added to Andee's clock.
+[11/29/17 22:49:29] shrew [369/553] has challenged sigwinch [261/303] in combat and won! 0 days, 00:00:07 is removed from shrew's clock.
+[11/29/17 22:50:47] shrew [300/568] has challenged graymalkin [357/545] in combat and lost! 2 days, 06:16:23 is added to shrew's clock.
+[11/29/17 23:14:44] catboy invented the wheel! This wondrous cowsend has accelerated them 0 days, 14:30:59 towards level 58.
+[11/29/17 23:20:42] will was visited by a very pretty nymph! This wondrous cowsend has accelerated them 1 day, 05:52:24 towards level 57.
+[11/29/17 23:49:38] ayleid [80/895] has challenged bunu [411/556] in combat and lost! 0 days, 00:17:18 is added to ayleid's clock.
+[11/30/17 00:49:57] ayleid [121/895] has challenged GLaDOS [93/611] in combat and won! 0 days, 00:24:16 is removed from ayleid's clock.
+[11/30/17 01:50:15] Jake [60/579] has challenged shrew [56/568] in combat and won! 0 days, 03:22:42 is removed from Jake's clock.
+[11/30/17 02:19:54] bag bit their tongue. This terrible calamity has slowed them 3 days, 01:55:05 from level 58.
+[11/30/17 02:21:43] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried ayleid 0 days, 00:22:56 toward level 58.
+[11/30/17 02:25:42] GLaDOS, sigwinch, and bunu [867/1470] have team battled Mex, Andee, and Jake [921/1634] and lost! 0 days, 07:21:31 is added to their clocks.
+[11/30/17 02:50:34] Mex [4/542] has challenged GLaDOS [115/611] in combat and lost! 0 days, 03:42:43 is added to Mex's clock.
+[11/30/17 02:56:05] ayleid [732/895] has challenged sigwinch [187/303] in combat and won! 3 days, 10:09:32 is removed from ayleid's clock.
+[11/30/17 03:50:43] Mex [274/542] has challenged will [463/493] in combat and lost! 0 days, 03:55:43 is added to Mex's clock.
+[11/30/17 04:50:53] catboy [490/815] has challenged idlerpg [779/815] in combat and lost! 1 day, 03:01:16 is added to catboy's clock.
+[11/30/17 05:34:50] graymalkin, Andee, ayleid, and GLaDOS have completed their journey! 25% of their burden is eliminated.
 [11/30/17 05:51:01] bunu [25/556] has challenged sigwinch [182/303] in combat and lost! 0 days, 06:43:57 is added to bunu's clock.
 [11/30/17 06:51:10] Mex [231/542] has challenged Jake [207/579] in combat and won! 0 days, 06:30:14 is removed from Mex's clock.
 [11/30/17 07:03:24] Verily I say unto thee, the Heavens have burst forth, and the blessed hand of Cow carried bunu 1 day, 15:39:53 toward level 57.
@@ -9,3 +967,34 @@
 [11/30/17 09:51:45] catboy [470/815] has challenged Andee [376/513] in combat and won! 1 day, 16:54:38 is removed from catboy's clock.
 [11/30/17 10:51:54] GLaDOS [424/611] has challenged Jake [130/579] in combat and won! 2 days, 21:44:32 is removed from GLaDOS's clock.
 [11/30/17 11:52:03] GLaDOS [28/611] has challenged bunu [463/556] in combat and lost! 1 day, 13:15:31 is added to GLaDOS's clock.
+[11/30/17 12:52:13] will [334/493] has challenged bunu [122/556] in combat and won! 1 day, 04:46:35 is removed from will's clock.
+[11/30/17 13:52:24] bunu [162/556] has challenged Jake [546/579] in combat and lost! 0 days, 03:16:31 is added to bunu's clock.
+[11/30/17 14:52:32] bag [298/429] has challenged bunu [524/556] in combat and lost! 2 days, 22:25:22 is added to bag's clock.
+[11/30/17 15:52:41] Andee [7/513] has challenged ayleid [217/895] in combat and lost! 1 day, 18:42:49 is added to Andee's clock.
+[11/30/17 16:52:49] will [440/493] has challenged idlerpg [235/815] in combat and won! 1 day, 10:33:07 is removed from will's clock.
+[11/30/17 16:56:11] will was accepted into Pi Beta Phi! This wondrous cowsend has accelerated them 0 days, 12:26:01 towards level 57.
+[11/30/17 17:52:59] bag [66/429] has challenged will [190/493] in combat and lost! 3 days, 03:48:57 is added to bag's clock.
+[11/30/17 18:53:07] catboy [160/815] has challenged bag [4/429] in combat and won! 1 day, 09:55:11 is removed from catboy's clock.
+[11/30/17 19:37:32] Thereupon He stretched out His little finger among them and consumed ayleid with fire, slowing the heathen 9 days, 07:12:50 from level 59.
+[11/30/17 19:53:18] bunu [27/556] has challenged graymalkin [358/545] in combat and lost! 0 days, 03:31:26 is added to bunu's clock.
+[11/30/17 20:53:27] bunu [171/556] has challenged ayleid [776/895] in combat and lost! 0 days, 03:43:32 is added to bunu's clock.
+[11/30/17 21:53:35] bunu [530/556] has challenged sigwinch [92/303] in combat and won! 0 days, 04:26:11 is removed from bunu's clock.
+[11/30/17 22:35:23] Jake [612/807] has challenged shrew [476/568] in combat and won! 2 days, 12:50:54 is removed from Jake's clock.
+[11/30/17 22:53:43] bag [416/429] has challenged idlerpg [299/815] in combat and won! 8 days, 11:42:02 is removed from bag's clock.
+[11/30/17 23:53:52] ayleid [135/895] has challenged GLaDOS [214/611] in combat and lost! 2 days, 22:02:10 is added to ayleid's clock.
+[12/01/17 00:15:52] catboy, Mex, and sigwinch [827/1660] have team battled shrew, bag, and bunu [1313/1553] and lost! 0 days, 04:59:21 is added to their clocks.
+[12/01/17 00:41:05] bunu, Jake, shrew, and GLaDOS have completed their journey! 25% of their burden is eliminated.
+[12/01/17 00:54:01] shrew [123/568] has challenged sigwinch [274/303] in combat and lost! 1 day, 13:05:40 is added to shrew's clock.
+[12/01/17 01:52:24] Jake found a pair of Nikes! This wondrous cowsend has accelerated them 1 day, 03:45:28 towards level 54.
+[12/01/17 01:54:09] Jake [93/807] has challenged GLaDOS [267/611] in combat and lost! 0 days, 19:59:00 is added to Jake's clock.
+[12/01/17 02:54:18] bag [55/429] has challenged Andee [419/513] in combat and lost! 2 days, 16:51:48 is added to bag's clock.
+[12/01/17 03:54:26] GLaDOS [232/611] has challenged bag [113/429] in combat and won! 2 days, 03:01:02 is removed from GLaDOS's clock.
+[12/01/17 04:03:54] will, catboy, and ayleid [1206/2203] have team battled Andee, shrew, and sigwinch [739/1384] and won! 0 days, 22:55:04 is removed from their clocks.
+[12/01/17 04:42:06] ayleid got harassed by peer. This terrible calamity has slowed them 3 days, 10:35:56 from level 59.
+[12/01/17 04:54:34] bag [63/429] has challenged bunu [143/556] in combat and lost! 2 days, 21:53:31 is added to bag's clock.
+[12/01/17 05:54:42] Jake [601/807] has challenged catboy [377/815] in combat and won! 1 day, 13:12:25 is removed from Jake's clock.
+[12/01/17 06:54:51] shrew [87/568] has challenged bunu [396/556] in combat and lost! 1 day, 20:52:48 is added to shrew's clock.
+[12/01/17 07:55:01] bunu [531/556] has challenged Andee [147/513] in combat and won! 0 days, 03:24:16 is removed from bunu's clock.
+[12/01/17 08:55:11] ayleid [225/895] has challenged graymalkin [471/545] in combat and lost! 3 days, 07:41:30 is added to ayleid's clock.
+[12/01/17 09:37:54] ayleid found kitten! This wondrous cowsend has accelerated them 3 days, 03:15:32 towards level 59.
+[12/01/17 09:55:21] shrew [147/568] has challenged catboy [341/815] in combat and lost! 2 days, 00:13:48 is added to shrew's clock.
